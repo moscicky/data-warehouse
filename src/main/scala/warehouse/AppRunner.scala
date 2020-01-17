@@ -2,6 +2,7 @@ package warehouse
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
+import warehouse.model.{AirPollutionType, CrimeType, Location, Time}
 
 object AppRunner extends App {
   val spark = SparkSession.builder
@@ -16,25 +17,41 @@ object AppRunner extends App {
 
   val path = "src/main/scala/warehouse/data/"
 
-  val airQualityTable = "air_quality"
-  val timeTable = "d_time"
-
+  //zdropowanie kazdej tabeli i stawianie na nowo
   val schemaCreator = new SchemaCreator(spark)
-  schemaCreator.createTimeTable(timeTable)
+  schemaCreator.dropSchema(Table.allNames())
+  schemaCreator.createAll()
 
+  //etl dla kazdej tabli
   val etl = new ETL()
+  etl.all(spark)
 
-  etl.D_TIME(spark, timeTable)
+  //przyłady analizy z wykorzystaniem sql
+  spark.sql(s"SELECT COUNT (*) FROM ${TIME_TABLE.name}").collect().toList.foreach(println)
+  spark.sql(s"SELECT SUM(month) FROM ${TIME_TABLE.name}").collect().toList.foreach(println)
 
-  spark.sql(s"SELECT COUNT (*) FROM $timeTable").collect().toList.foreach(println)
-  spark.sql(s"SELECT SUM(month) FROM $timeTable").collect().toList.foreach(println)
-
-
+  //przykłady analizy dataset api
   spark.read
-    .table(timeTable)
+    .table(TIME_TABLE.name)
     .as[Time]
     .agg(sum($"year")).as("year_sum")
     .show()
+
+  spark.read
+    .table(LOCATION_TABLE.name)
+    .as[Location]
+    .show(5)
+
+  spark.read
+    .table(CRIME_TYPE_TABLE.name)
+    .as[CrimeType]
+    .show(5)
+
+  spark.read
+    .table(AIR_POLLUTION_TYPE_TABLE.name)
+    .as[AirPollutionType]
+    .show(5)
+
 }
 
 
