@@ -1,0 +1,1000 @@
+Outcome of crime b4adcc899360d595450a35cbe4d7d71d295bafefef98b2e764ff3bb8b90fafd0 committed on 2014-06: Suspect charged
+Outcome of crime 64b14e3efdf9e12425e3ac19f5e72b6d19b5656523d91bc6b888654f1df18495 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime d9909143deda1db75d8ba35b701f31b268d9273764ad427b0cfa9dc95a4366dc committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime bd44c99de1bdc727abc7c682bf3916969a3bc673e9309318c5338f4edccd50a6 committed on 2014-06: Formal action is not in the public interest
+Outcome of crime f8e3fc7e63baa91ddd6625dd1f4f48203f565fd021d9d426c09e1a8984aec412 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 0bca94e0f7c12d09f829c03317f6d6dd971f159cd6fe1f6fc5dd37e392026d5c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 2e4253886e78f9d9860c091c3ca7796d32ea4ed89df9fe9e24355eb7fd7e5568 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime d40cd4a922d545e85c6d8db2c99f68f215b07b10c381426944105eb9e24fe0e3 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 6ca37182ff61ecbc9064e59a32b3023e3f5e9b92c8674290d0bcd2f30dd339eb committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 60d2ba959c0339ec5e3803cdf7903991d2bdcff83ea1f023be741a3547647f61 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 71d36bf94b07b4c1477eea4dcc7ece28cd9757d02c577409c5c2e447efcf79ef committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 5669438d4e203474755a5fa53ce93bf0ea764dec9964c1f4e92acb0559f30765 committed on 2014-06: Unable to prosecute suspect
+Outcome of crime 965af31750cb19ad39bcc5c86be1a835b7b9781482c6e84a62d8bdd4b3fd109d committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9428405fb4e463939e4d69a7a4ca9a726421c4baa54c304241eb6ffb1bee8f8a committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 612bf70fade0fe7bc681a1c3a17695f518066d308bf8327bfc4f7b70b7b46fb6 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ed2bcc93f2d9918e1871ddfb70aa2c0c57d27c1010716426864a25e2a2d97b6a committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c22950018c5e9a1661c89977b41a5102c114f9866fa9e07ceb7f9ca315751eee committed on 2014-06: Offender given a caution
+Outcome of crime 43eb10ba0ce43a4b705dd2560dec406d53d9be142a2b9c8e653467c290ad5423 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 1052ac6ad77472415bac88cfc2135b57cbe64cadfa6daeea29db41ff0d5f9d5d committed on 2014-06: Offender given a caution
+Outcome of crime e03d3c47cef4ecda0db40bfe0784005b20d92c647e1286ffb0bb055dadc41e52 committed on 2014-06: Suspect charged
+Outcome of crime a32ef07da84348f108b40084c17aa7bc7ebca710dc69e7635b6fc4b154d62bcc committed on 2014-06: Suspect charged
+Outcome of crime 7012c31208b2d1da7dbc344c19f370e6038320c83756c5f8a4d42e681a749da5 committed on 2014-06: Suspect charged
+Outcome of crime a32ef07da84348f108b40084c17aa7bc7ebca710dc69e7635b6fc4b154d62bcc committed on 2014-06: Suspect charged
+Outcome of crime 2066830c59f46086118f146b1164069eaef067ed4e09084b39be429013d3e551 committed on 2014-06: Suspect charged
+Outcome of crime 90f1a1a69cbcfae5297a544d15fa83b1966c09efb028f15ec13b1b992a84eed7 committed on 2014-06: Suspect charged
+Outcome of crime f617a43a4baf155b48c42ee1e35ae4c9a3745e5d709eecf62cbc6ecbc81e41a2 committed on 2014-06: Suspect charged
+Outcome of crime 807c958b42cc703b509aa293953b0e8d89200982f6fd7a4260ff776a5b95ca5f committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 4c932f514594bf2dfab1440cfb2571063f157372241e45b36289bf1ecf4ff273 committed on 2014-06: Offender given a caution
+Outcome of crime ccb152dbcfc0610193dd05d3d4cf0bed8661ad4e894a14fa3496e2f7740b825e committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 4802bd3cdd4d991b5fd4132e1c720e683893f4175c77b77bfa9eebde9f58392b committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 0d0c5c5e1d2f8bf8f96a8fa70048c48f418f5d3e42b04c989e86d4f46b7712ab committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 4dfd8c6fc4d1a2a77859e1c1e16a0390c376fe1892d678fcc838a0bdeb159657 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 95243d5f40f62d16f7ffeaf73f7e79aa882987c85eacb6901ff315e6d957fc31 committed on 2014-06: Offender given a caution
+Outcome of crime 65811fd40d4c4e3da418302015520310277776751c7b7f014860a5df6ebc351b committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime b24df6fef7acfdfdd2a09ab7d78e76566f8bfac83a3e515a8c3620f25e9b3166 committed on 2014-06: Offender given a caution
+Outcome of crime a5a24c596f919856d641521d719fde208770dcf36f741d636864f64b1d1b91bb committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime cf49f61e6586a0252de35d2f3f398c06270c0d14001bc1d2d8e3cccb836862b9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 974595253a43fceff4e44315086f4c243d43dcdfe57298081065f56395740775 committed on 2014-06: Suspect charged
+Outcome of crime 7ba33d7f9d3e9184a931d613af38a6f789737e97eaff20346248ba8c86fcbbbc committed on 2014-06: Offender given a caution
+Outcome of crime e39800474d5fab2e694aaa6547e1fa1396bf1b8798432afac2e425785873dced committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 82280256bcc056983e54b5478b18ae477e190109e56ea411aa8826ab035374a5 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime a32ef07da84348f108b40084c17aa7bc7ebca710dc69e7635b6fc4b154d62bcc committed on 2014-06: Suspect charged
+Outcome of crime b489558e187ccb6e1b1d06e1bfba3a81f7afcf18432fb3eff6da487e7c4ef3c0 committed on 2014-06: Suspect charged
+Outcome of crime 2ef21989ccb137206d2fd1af60233853af55d1e413c2731a14fbcd1eb4dd961d committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 0ba5a698a8c917235e6fedd3349932c5fae0e119c26fb4283831c3365ac51a49 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 70bdf1f03ac3ee415cc29d8f8ef446841c64eeac6277ccff81d43e90b2ae992b committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9f0a02ed8995bf760f39fb11e03e50adff34e578d7fc9521e028e3a83bed88ed committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 6b90cbb64409d78f120c16366a0ac98709fe39d1ba2c22ecb1aaa785b9695187 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 10430f7d409be311e9d1959a0d8a7f176befa2c8ae93f28a2edd6ac9d9ea896c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime f9172f769165824bd4134901da45e29576a5530cbf6e6a97ddc7139ba0cf8b75 committed on 2014-06: Offender given a caution
+Outcome of crime 3caa2ff5bed6e54e55b8f975e578d8df4d2595b12385be73ccc46b2821e2066f committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 986ccdd50c7619824868f3e000bdf2c6a3977e0cbe89b979702568f2789d42cd committed on 2014-06: Suspect charged
+Outcome of crime f9a27aa3270f6a24ec5b138b937837598f25f451c8639c1d0b806edc4c928234 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ea4dcbc67bd08f1f9c5314ecea516a65a32282fb92d0986d7cfdfd1e3be70c38 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime d620b0b29a3cbbc52098469810da0ffecb673914283553744131882e4850ac3c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 53c1523e7e13e7d0494e384ba7622c1d15000f6e9cd10a4ef79ee222f543857e committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 528aacf4166eceb4aa75f440a966026f3862a571f1f2508d975a68bd700bfc7f committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime bbed0da00a81711427c076dfd7e0214ff313031ddf1cf7174a0d4f222c4d0537 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c4f1b814e184eb73addd29511fb223d0620eaca5a0a91933a7f3aa441253a758 committed on 2014-06: Suspect charged
+Outcome of crime 99cc804fce53fe39c98073bf3f2b18a04b623d98909999d584ae5b57ceef3203 committed on 2014-06: Suspect charged
+Outcome of crime 5bac06bcd17c2ac19f3f409a75c79989e05d9b29b18466b3725159be1b88d74b committed on 2014-06: Suspect charged
+Outcome of crime 071d50f369fceee9122caef98bd28f0b33557a08fe3bc1ee7e17684cb4d3e5eb committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime edb203f01ecfd771c75b8f23c896ba94f7b8f7110294a260e933fa179e720cd8 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 7e829de0a29a633d8ff4379167d603196537a94c41665e7455e65d89fc88e95a committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime fdd1cac2a8e1a530c9288987a55d9a947bba0dcec038dc51ea10ef20cf013d43 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime dca5a68b57caa6b8687fdd184b5b594caa18d9d9cde596f82a0582d4e2ff09f6 committed on 2014-06: Suspect charged
+Outcome of crime 62fb41d3c4a8ce3fb371d80e255bc631f379c7a1d71eaef4a9ca73cf15fe5897 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e0fca000339c8d02fcf5d3f26e0fed0fd82c6cb69bdc13bd9139ba65553be2a6 committed on 2014-06: Local resolution
+Outcome of crime 0dc3603511e17917009192e706eb6d98603a6a42883456fda99e956f00a3e9d6 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e462e55f90065214da925b30a4d81862f034e02e8fb0b024228dfa633c37cb99 committed on 2014-06: Suspect charged
+Outcome of crime a660b56ed18444ee12a784e2c7df29d9f4405d1aeeaa44a069ed7fbdfc75600a committed on 2014-06: Offender given a caution
+Outcome of crime 518f96ca3e72bd0e337e06f9034f4c167e96a4a2e3e44babb118f91b1e3e90a2 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 6ec7431179ef096383280fede74ef3c4f5a08be58705db5e0df87215b269097a committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 38ed12cbdfdc04c833adb5c29bb72acf4341c2410e0527dfb89ff05a4f8c6aff committed on 2014-06: Suspect charged
+Outcome of crime 616be096823ccb027f86c6cdd9f45530d4b17fffe378ba6260ad9f6856913635 committed on 2014-06: Suspect charged
+Outcome of crime 3a576ef11df5f85415bc68092e3256ace0bb73df71263696e15622ef95c4d8d9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 7d603bfad3c3260485b4dccd63a68732d77c6b25078c000161a3a60d33e354df committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime cf0d3800727a5222e3bb8b3bf387ed5451dde85c3753eb964157d6b3c49a726a committed on 2014-06: Unable to prosecute suspect
+Outcome of crime 123fe560196bef3ecc2b28bc0b8b0eaf855b41353f9877f5b1c5966ac682df56 committed on 2014-06: Local resolution
+Outcome of crime 1be986e359d8d4f0b1bb6903fda9a8fa943231a16a7d7daca17bbf65cc7d8eaf committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 113299900be6f3d7c49cdf1888055cd3a22b54fddbd1aeb1ee314019034393df committed on 2014-06: Suspect charged
+Outcome of crime 0c243b7dc092bd1b6eda34e5d40206ebe7f7a16abc06bcd19d8983e6c9c7bd0d committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 518fde3f54555abd2ef853f977182f27986e78757969a45ae01be112e154acdc committed on 2014-06: Suspect charged
+Outcome of crime f42a1154501bbcb2e6a641a340c977dbed1d39f084cc95864c32b4403ade13eb committed on 2014-06: Suspect charged
+Outcome of crime 6005d4e19d0506c3368cd249145b09c694a4afa48f8fd56fe98c34d73d347e74 committed on 2014-06: Local resolution
+Outcome of crime 90f8178a8d2a04b0c2d88e1d43f1f742371450bb3e3415700614420488e658f5 committed on 2014-06: Suspect charged
+Outcome of crime c90f9c669224a21f2c51e605dfc56f1e0acd751cd7dbc8425abb56e849bfb9a4 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime b26de495bbaef440f58ae79853711fc4f7c79144f3de9339ae97a155b1cf2762 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 5ecf2772a4e70e7d04cc20e3d539696813595c1f128cec4df421233bd6dd6460 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 2cbbba19d14b92333da7a0d966b002161c46f6e6c3c9f4549d6d961c3277f7bc committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 61d20fb866a33fcf35b7b8e5057b7d71f510b0d154d18a3b490c4fd4f82a9c2a committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime eff285049476541f92f804a3d6b47259edbdad8e86ff2116665bb5a08b011145 committed on 2014-06: Suspect charged
+Outcome of crime 3972edd73f67f62e69261db3ce2a008d20c7fe4d08128f39855c6123295a02c1 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 61a7189a1f7f43c6bca93f4ccafcfa41299ca3e2206c88832b64ad29bc317b0c committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 8f75255aeaf2eaae2ff81fe05c1bdb5fc940d2c90b6cea6ae34f79c204c16380 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 0c27da00ca63b866c13584afa7ee128291df8e3d758e6b02823fa209c8ba72b1 committed on 2014-06: Suspect charged
+Outcome of crime daab0e4977b0431124367d25492f334483cc17a684a91942d9b9326be7ebf499 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime f13e349cae637ff2a4bec41c0d543eebe0ed16a098af37baf43b368afb21c8d5 committed on 2014-06: Offender given a caution
+Outcome of crime e60d147e72b6745a7ea527b80c2fb018e36fe5d23fcf3426aea862a6730527f1 committed on 2014-06: Suspect charged
+Outcome of crime f0f4dc5e22d786d23b208aad56c9906439eaabd4c62367bf9e617e4b18b82ca4 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ced532559b9fa8b29dcc96c278846bfb0e447a0b3773dedf45268b658c6900dc committed on 2014-06: Suspect charged
+Outcome of crime b0d79f31f3e248f8cc849d542d4c3d28db020cb799a01bb4c27bb734e92ecca7 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9e59158aa847aec330586bab08ad3cd9190d5ba39d2bb9f4a0504f9c97f1e4be committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime f65243cf104340e49347cabc6e4c57c9fc4a5f1405a3ab12b7702749432b0f9e committed on 2014-06: Unable to prosecute suspect
+Outcome of crime 48f138b97540d585e5b5a9f263a22b3ca8b14c58f872292a5051787a5fd1e3e7 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9be4ccfc8784c60f2bd732a22398f19532b5118c16310e2300a5ee66092cb601 committed on 2014-06: Suspect charged
+Outcome of crime ba90a44a6ea1c31905c34c98570c10d4e651615c9940d7e41727e810783d8d43 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 66af414e36719968dc4058a912c1fa1dc04bcc8a642b0431e5dcd270da0affb1 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime eec6b0ff03b537116021607e7ee7c37465f497934e2abf0f771c4d22ce7fd1a5 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 58fca5f9b946189b70d33f1c3e113b766b0eca195bb1c6753e5dd9105b7fb178 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c33d884ce0bf3c4e45da884a514f557bda14628ec879b50ad59c59860ef90a75 committed on 2014-06: Suspect charged
+Outcome of crime 416f21be7362d65ac74717c4d0bcad7709f94eb7d83edc6ebadc8218de25a374 committed on 2014-06: Suspect charged
+Outcome of crime a5560a1c2b7217e991cba3e9d734ae2b8f260a2297c7b81231f0df65a223073d committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 80ddf45d2a1ac6ce391eef468316e9bb04907ca6b642196bc2988929d33e0638 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 6173aa44bbeba79520f327e77997f8129abe95cccd0f7001a03e4eac268f0ffe committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 297676618a77e4bde123fa680c9927038d948c863bcdf4c862bca95b145a3dbd committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 92be9a7d4c6c076cf245d15ca162d675ec65139ad5fabefd99279a24d449ebcd committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime bc3b136c1f2adac73ed61ffeeb19ed5cf2335d182fe133842685c5c5ab846134 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 329c992c1f75b6a0f4efe964e91c5630ed5fee00e2a4ad4d39e06422582d09c9 committed on 2014-06: Local resolution
+Outcome of crime e93b52d0efe184ae1ae279361ea0a234f669a3b9371e67edac1c054c41a6a5e2 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 93195dfc6b0ab7451ad5ac4affe3ce8417e88f6b8a4e23686222fdd390eca0a7 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 0eef6ce3bc50f5b4a64044c0a646d0edcf298c52d68ec873d0cebcaf4e44079c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 2ac85e3c7fc657b13100919f5fff41875b85265115c40ab100a6876dc608d046 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 0b82bfb9e0fe76f9038192eb144cfc878beeb7f9784f13fe781d4af7997520ad committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 3ca470c18afb80f84d763d4fa14cd50f4dbe3efb691e6b0d32ef59de7d4f72d8 committed on 2014-06: Suspect charged
+Outcome of crime 4411cc99fc70ce02c3c1db1198f3c56bc3aca6355ae329d9a7fdf7714581e09b committed on 2014-06: Suspect charged
+Outcome of crime 137475ad9c7e1c8c02c234f5ddb9ecbeaa997d597525935f11bbdb1576426478 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 02ad21eb8ee99bf9ee7c6582ca438d03651cf15e25d024f6ada390a436948ee0 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9ff496bed3426fbe5ff52cb799f70b0c0f08a64cb7b624418ca5219352273cff committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime b87ec78fa8072f3f056f85c3337bd4857d2c4575702196f18acca1a000e4ce38 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e17bfad4f1592088fa7603dafcb20037b2a7ecb0556313ae8844876bede44091 committed on 2014-06: Suspect charged
+Outcome of crime 4eabd9f5e47100558d0d983734cb4d01a083dea51cf6cd7df512412de2a77f73 committed on 2014-06: Suspect charged
+Outcome of crime 1c23d2f33133e8f29046eb18f88087d4efb9ea1935acd8d353abaf71be748a39 committed on 2014-06: Suspect charged
+Outcome of crime 160fe531bbe8c643030eb900c66de66b7ab7aae25e2dc400183d2e1b285352a7 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e56c2a4453d51097b4b754472eaa3071ec8989be77f840814054742d1f9eea87 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime a2ce2c63994841d345a14383cbac136f8fe93dad62a6f2e07e3c0020c05d0bd7 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime edcb2292c2789b3993da63f334045c2eb8c1213c1c569291f1b8ca3a8e7574a2 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9f8ddec170223bd4d519790d4a9db4648fbcc5056c6b5b8b92b876c66917b69e committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime dc6e2224f4649d5616545ed96bddd3f1747240fd61c7265ce3a8f2aa070dacb2 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 89676d6b99a9c0d710a8a2ee782807783d3b6b2efb38e274ae1f1074151ee221 committed on 2014-06: Offender given a caution
+Outcome of crime 527f1fa199c6141c65f3ae4abb4493a5760d96236d8426261d680851c501c66d committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime f4c40b2e213ce967a95e6923926fe74fee1e98230adcc5de5bad43b9ef820888 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 351bb4a3c3b1b2e0c32f70a4ea9ddd091cc135ae7b6f683d401cef8c0ca6b2ee committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ca8949d9e60c7df642eedf1f1e4d09f87fc67a018b9456da961e3031c6719855 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 9b5f1cf814f845d7c346754e71b73f5100fc3a88b2f3657e9d03978e522c3506 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e84d0d4e017c9f5b8e37cf00849ba2c95d7789af6607989686c1d4384c12b0e9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 8bb2c4cd2b03ef5ba7fc6b850a7421daaeba220d0ae9cb639495dbd721b1f874 committed on 2014-06: Suspect charged
+Outcome of crime 60515247d2b1a7a7dd875ee011b45530074fa079060cc595fe7fb9a90aa590b7 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime f3a4ae621dc3a58e187fd15ffc99e4b2814bff823593fa868a1954505ffe0130 committed on 2014-06: Offender given a caution
+Outcome of crime 8cac3f13ea62f7b221748c702f8b4b8176825583674ceee32caca1c6b65e389c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 6c4b381588e384e319eab1f7bed0f106aa98620fa8b780ecf70e36878b9198ff committed on 2014-06: Suspect charged
+Outcome of crime e0bda76337f6936d9f2c0574e29f840e71996d60210ce2cde1ff5b0d13c18431 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ce8abbeda4dcacfdea9602524b79ae1eaae0bcbfe183fed2c5dd504e97b583b9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 508efefcee7cb0a9cb2bf16d6cdbc97e3cc4be5d59f2b20c85aff6cbcdb4a8a5 committed on 2014-06: Suspect charged
+Outcome of crime b60238ef151013213129da4157860a17e7d1ea5152d662fce01bc7841b610600 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 055f0c7e72cbea400bdcb7df57cac4033af85b1db6329bd75b04c79c0dacf92b committed on 2014-06: Offender given penalty notice
+Outcome of crime c5aa079419b8b63ac4a42a04bafde6ce4876ff97471cb5bb5866556bcecc3041 committed on 2014-06: Formal action is not in the public interest
+Outcome of crime 429872dbf6efaea6dbb0c7beda4e73f88d5d2b896236d2422541a95554b3795c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 19539d0474ce6b64603cdbf23fccdd88f4a9dbbab4d21bc2506126c79ba12156 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime a6e075dbebd38c5be54154d27f53c1b26e2837dd71d7e52a4e97d85e1a855608 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 43f3075dbfa53b6bf4fb4e81f4acf5c24727df3a91c0f12058a68548856106f6 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime d1f68b56cb85c4ddbffe49df9ceb5aa04181cdf18fe0a93880a4c10a2bce7c78 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c158336c4185c6d01db39c68740286a1b9e364498111943da5eee86edeb30770 committed on 2014-06: Suspect charged
+Outcome of crime ed50d976208c1b00e2fb8d7a8883166dde360429f06a22f61b8207f08a716d98 committed on 2014-06: Suspect charged
+Outcome of crime b9ba13a5eb71b313f0afc67b9c7cac34aa896712bdd7de46aa161f57e455bc1c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 1d260eba366db49f616d620a588a35d9d0742a0e09feb6abc45aaffab13b9cac committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime de40e14156814f98de225b1d7f9835177a80307d12de2ed1ed0c51d23bd84cc9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 228fb8aa7f6997eb51e892bfe75041cce1a72cd2a03085463f8dea0521fc4dd9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 49c21311471f21a4bdb2f5ee11514101377897163498081b8f27fa57f64c1948 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 90f8178a8d2a04b0c2d88e1d43f1f742371450bb3e3415700614420488e658f5 committed on 2014-06: Suspect charged
+Outcome of crime bfc12d731d14314cad28c8b9cea6f4a0b5490e51c7bd441e2f3125c4da1d7182 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ec3026c9eabd2851f5ab5c15b302bf4c9a2e14d532bc477803be8b9691f5c43d committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 6e53ecb87cfe594dd46949dcc06849e8be8e4617fffdbe92d599c856f4f5ea5d committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 1a3d399ee2722fac3a7235c6293dd362ca419e0b720418a5644f4eba56185a33 committed on 2014-06: Suspect charged
+Outcome of crime 293045cc73843e3702a85da972aba6a2bb305fe6747f8c8c02586761972cf5e8 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 52da5d132f09f5580ae1f744b962d5611e21a9e2a62e7157b382b8e4cc91809a committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime a88b87dd753ca669a270f3a6230c96095b32d9c0afa97555537ba8143f915868 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 17ce91aaf8eaf7883299c0864c2b21e19e5a6493fca70cccbb64a2f683a14ebe committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime c0da3ab6bd9bedb20c4af97fef3b6d353e4f598b212117145950d39acc6c8cc8 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 3d6a347bc5ae50b865025c4b34e08874094186a31abd20b9857628007231a3e3 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 76fdd7593a28d2f0701660fc78274257fb5d6e66cf8c9d6194399c8dd02cf6a9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 61482377d533acf611f2e7d1db22db734a6fb109ba27d7e80303546a8a476f12 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 5fc660e47e898c2a6e95ed39c44f82ca692ec4daa7e923f3b8550a77fde33fbe committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ce58086753bf14e2dfe090b0e7a28ed7c6cc4b3a01b5430504bd5bcea9d4d978 committed on 2014-06: Offender given a caution
+Outcome of crime d0da63235a7033df12eb3dfd25964eef12c6c71d5911564e09a881ba7a78b4cc committed on 2014-06: Suspect charged
+Outcome of crime 777bc11010e48cc4904f40a2134713ddedeae98f5ceda1a7af40b2674682ddb5 committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime 7b75ba368a98b17f8de6fe3d621c7639c7a1e9ca6db9ab9e2b4c59f4f50341a9 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 92fe55d666a4defe32073e0fb1ffc9bbdd217dca812453d154246bf0f6b66dab committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime ff93d7ab2242473b3733828f3120aceb1d8c1ba1c53cb7b08d5bda9ccf4ef5ca committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c5c36648ae6f071a078093b6238880b5ef5f7968f5891ad8dd7a90c1b9f13266 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 8971ddae192c75165e65726542cfe284049237339454fc16a530aeaa1eeeb122 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime b6fa23c79bb301738e4d20c3d1c0e51ccf710c82ad6f1cb481860b9dd1bd2b35 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 3387fa506bcda6302477391b396cc3055a71054b528fab37eb586cfd0b612b2c committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 3ca470c18afb80f84d763d4fa14cd50f4dbe3efb691e6b0d32ef59de7d4f72d8 committed on 2014-06: Suspect charged
+Outcome of crime adfaa1368468decaad7abff665c3cbbd7abc1a81130dc87773abc119eb633d03 committed on 2014-06: Unable to prosecute suspect
+Outcome of crime 6b4427cdc9d0f97fcdc72c845a778c61b87805168f747fad9a9764948a5522e2 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 1bca59956b8525e55ed97400bd2d9ba8ad557e9280a49d39a8266863940b132e committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime b3f76cd576c875403b1f078cdd15e39d90a6f3726c2106ab737602b2bccb77ef committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e984a17977f605e7d9e6cab0ebe82e3180fc0ce31fb57bb487c73804f3e4a449 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c352cd1bba58f869992bb39bd370dbe00a5ec753027c86e48275b7eedd455e4b committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 68381e78a2a8d8b385f8bc0a5e01a353addbb118d7654bb8752efe92903d04a3 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c66c69a78a1a02c36726d1cc6febe364c7dcb1cd21fdbc65d81872c2d828a75e committed on 2014-06: Suspect charged
+Outcome of crime c297ced0014feed49edcdd317d50a254473f045e13fea7d7704f04bdc31704bd committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 08f82b31211afda8ac23c7e99a4eb3a070e91df6369b4c0c2e8705c6f2258de2 committed on 2014-06: Offender given a caution
+Outcome of crime 83502ba87ca6c3b134b1b61a2144ccc3f6d382e0d3804f8c16c75880ffe7b3db committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime a80f69ef122aab5bc2098ae1776a27bdda57386123ec3437ff62790ba3153e27 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 16c5969251aaccba014e174b0a7d2eecdd2887bc1360fc48d0963bc0fde8251b committed on 2014-06: Offender given a drugs possession warning
+Outcome of crime e8c9d3dbf693053d30199663c71b89ad0c37b37ef2476538ad3ba16adf4f7113 committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime 75613349e39461ce400c788a49b3235026a93d2f81d60e494c862334f9131c0e committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime e56041401479c11867efb9cc3ab12fa52d6822da51dd6005f25ed55565ede88b committed on 2014-06: Investigation complete; no suspect identified
+Outcome of crime c158336c4185c6d01db39c68740286a1b9e364498111943da5eee86edeb30770 committed on 2014-06: Offender fined
+Outcome of crime 9be4ccfc8784c60f2bd732a22398f19532b5118c16310e2300a5ee66092cb601 committed on 2014-06: Offender given community sentence
+Outcome of crime cc3548a0bded9fe3103654fb80658f30b45f2c2d51570f50dd56e732a7e4e995 committed on 2014-06: Offender deprived of property
+Outcome of crime 94346436629cfc6afb5f99efd285751315a6964cbfba84634dd67934cc0a5868 committed on 2014-06: Offender sent to prison
+Outcome of crime 4411cc99fc70ce02c3c1db1198f3c56bc3aca6355ae329d9a7fdf7714581e09b committed on 2014-06: Offender given suspended prison sentence
+Outcome of crime 8bb2c4cd2b03ef5ba7fc6b850a7421daaeba220d0ae9cb639495dbd721b1f874 committed on 2014-06: Offender given community sentence
+Outcome of crime 463bd31b4659a400cb39e0886644c791e18e32f6679b3a148b23c6de9ee6d656 committed on 2014-06: Offender given suspended prison sentence
+Outcome of crime 90f1a1a69cbcfae5297a544d15fa83b1966c09efb028f15ec13b1b992a84eed7 committed on 2014-06: Offender given community sentence
+Outcome of crime bd39a0311353365f52523f70cb46d5d2f6c1f5a7a3e10ec67a62102cca450358 committed on 2014-06: Court case unable to proceed
+Outcome of crime 1c23d2f33133e8f29046eb18f88087d4efb9ea1935acd8d353abaf71be748a39 committed on 2014-06: Offender given conditional discharge
+Outcome of crime 38ed12cbdfdc04c833adb5c29bb72acf4341c2410e0527dfb89ff05a4f8c6aff committed on 2014-06: Offender given community sentence
+Outcome of crime 0c27da00ca63b866c13584afa7ee128291df8e3d758e6b02823fa209c8ba72b1 committed on 2014-06: Offender given community sentence
+Outcome of crime 6b84e36b1a14048f564a7a7f696a0529f333dfbb58f660e6bd13f2dfd9381841 committed on 2014-06: Offender sent to prison
+Outcome of crime e36871e025c980444d3c978fff73585a684d8e2e61d0976c5866c01eb3a96a36 committed on 2014-06: Offender sent to prison
+Outcome of crime c66c69a78a1a02c36726d1cc6febe364c7dcb1cd21fdbc65d81872c2d828a75e committed on 2014-06: Offender fined
+Outcome of crime 508efefcee7cb0a9cb2bf16d6cdbc97e3cc4be5d59f2b20c85aff6cbcdb4a8a5 committed on 2014-06: Offender given suspended prison sentence
+Outcome of crime 25b95fa7866b9431a9eda5f5a5925ab7d64709d13e22990765d0a8c9e634bcd1 committed on 2014-06: Offender given community sentence
+Outcome of crime 986ccdd50c7619824868f3e000bdf2c6a3977e0cbe89b979702568f2789d42cd committed on 2014-06: Offender sent to prison
+Outcome of crime 99cc804fce53fe39c98073bf3f2b18a04b623d98909999d584ae5b57ceef3203 committed on 2014-06: Offender sent to prison
+Outcome of crime 8874d1e7d0853d46bfe45650c88f9ae440a32167f3e629105bcac9bee3def7e2 committed on 2014-06: Offender fined
+Outcome of crime 217a9f2c198d1e366a4e54130f1632da0b00f02ac29a399eece7eb4bd386aff1 committed on 2014-06: Offender fined
+Outcome of crime c33d884ce0bf3c4e45da884a514f557bda14628ec879b50ad59c59860ef90a75 committed on 2014-06: Offender fined
+Outcome of crime dca5a68b57caa6b8687fdd184b5b594caa18d9d9cde596f82a0582d4e2ff09f6 committed on 2014-06: Offender sent to prison
+Outcome of crime 52dce9f23071277610d79b94fde48313d674ec49910c9cc8f4237757eebfa05c committed on 2014-06: Offender given suspended prison sentence
+Outcome of crime f617a43a4baf155b48c42ee1e35ae4c9a3745e5d709eecf62cbc6ecbc81e41a2 committed on 2014-06: Offender fined
+Outcome of crime ed50d976208c1b00e2fb8d7a8883166dde360429f06a22f61b8207f08a716d98 committed on 2014-06: Offender fined
+Outcome of crime b4adcc899360d595450a35cbe4d7d71d295bafefef98b2e764ff3bb8b90fafd0 committed on 2014-06: Offender fined
+Outcome of crime 2066830c59f46086118f146b1164069eaef067ed4e09084b39be429013d3e551 committed on 2014-06: Offender sent to prison
+Outcome of crime 13e9e9693c80433e6671b8131cd2a3b5073ef2e393a1aa019d12406f711c6deb committed on 2014-06: Offender deprived of property
+Outcome of crime 820224b9a7234f551c57b34b5c26f5741a5e6fc00cc90918672d48e9e33884ba committed on 2014-06: Offender sent to prison
+Outcome of crime bbe343c363c3f25213f2e6d94fd2f78d987148a00f632a293ed410ba111dea65 committed on 2014-06: Offender fined
+Outcome of crime 3363e01f0dda2d4164ef076968cd9d8e8ee759677c491c3a0e65f037b1e018e5 committed on 2014-06: Offender sent to prison
+Outcome of crime e462e55f90065214da925b30a4d81862f034e02e8fb0b024228dfa633c37cb99 committed on 2014-06: Offender sent to prison
+Outcome of crime e03d3c47cef4ecda0db40bfe0784005b20d92c647e1286ffb0bb055dadc41e52 committed on 2014-06: Offender fined
+Outcome of crime 616be096823ccb027f86c6cdd9f45530d4b17fffe378ba6260ad9f6856913635 committed on 2014-06: Offender given community sentence
+Outcome of crime 51db99f42eb238467927d3bb4fdf647b4adfa0c135ada7f316fbf192e981443c committed on 2014-06: Offender given suspended prison sentence
+Outcome of crime 7e8ce40a9c7ffaefe2af2550ef606bec78ee78449687fbe71566dbdc0fb9e7de committed on 2014-06: Offender given community sentence
+Outcome of crime 7d16094fa96c119d2b3c67178ef35b8df9359c034d8d199b64ce9871945c0528 committed on 2014-06: Offender given community sentence
+Outcome of crime 5f19015362c8fa3143fa8f2565e6b33aae49a73d08238b5d8f511d8b92ad83b8 committed on 2014-06: Court case unable to proceed
+Outcome of crime 113299900be6f3d7c49cdf1888055cd3a22b54fddbd1aeb1ee314019034393df committed on 2014-06: Offender fined
+Outcome of crime 974595253a43fceff4e44315086f4c243d43dcdfe57298081065f56395740775 committed on 2014-06: Offender otherwise dealt with
+Outcome of crime b25b50be5c121261bcaf18651db8877f0e03ec2fe80b97991eb21d397c9db16d committed on 2014-06: Offender sent to prison
+Outcome of crime 90f8178a8d2a04b0c2d88e1d43f1f742371450bb3e3415700614420488e658f5 committed on 2014-06: Offender given community sentence
+Outcome of crime bc40689954f5381e5a5eb24706bfbe55c7294ce0b01339b767730c1d4f7bb913 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4c3cdb8ad499405f237611cdb3a77532fdc63ca016681106661ba593ae281eac committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b5e7aef3802ca2edae9fb4e83fd9762203ae981deead5c900cf10276acf0accb committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e8bf87c6b0051a88ad579b8e9c41b1dfc41dee6e9c4ba39de1ef87c8aea87331 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 996366e93ec1677cc11768c220ae992ae1cf16260b6d921827b7fac8a5dc1571 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3a150dcf0294e98efb8a54935fa3d8c4182c027be192ca572ff1174a795dacdb committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3fc8a473d382969bb063713bdd87afd47f1a1cca10ef5f58567b35643fce39b1 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 45bea6099f275644fab1ddde0558b272e58f3d50c614c97da3c2834648b9db58 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b8e2cbbd715e813cea879cb78e320e53d05819146f115615f68959a09e2cb645 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime bb07621c40dc3cab05ffe0c24eb9c00c974a8fbd7f4edecd3232e71463f3bf7e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e259ee4c155dd223279f6818f68205acaaa9af0674dc4812523a15cb32e45d9b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime eacc0514bdbde8eab237d10a3ab8cddbba2a0f399adf8d5374d4da16575f0cae committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime da7a8f001ee3974768a33bd809da8651604c49f9ffd3fc094d60bf43167996fb committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2d9975dbb5732c1ff7cb5398cf22bb7d2dbfdcf40eb30171e950e4685d22e965 committed on 2014-07: Suspect charged
+Outcome of crime b25b50be5c121261bcaf18651db8877f0e03ec2fe80b97991eb21d397c9db16d committed on 2014-07: Suspect charged
+Outcome of crime 3363e01f0dda2d4164ef076968cd9d8e8ee759677c491c3a0e65f037b1e018e5 committed on 2014-07: Suspect charged
+Outcome of crime de447670125f303444b5161da7501d2ef70d4d3ea30886a241b4a5952e27a1bb committed on 2014-07: Suspect charged
+Outcome of crime 39041496437af0203cd970f97ec0b3b451e74b52a8442c19df7b19dc7afcefba committed on 2014-07: Suspect charged
+Outcome of crime 9806158dc814106c36181fb3d2a049ee750570edf21748f68bebec5f7a3e736e committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 1ae0e9acdd49f42689b047358b5712385b905f08c6c0844b039d3fb8a27ba519 committed on 2014-07: Offender given a caution
+Outcome of crime fca34483e3f35b6451060c434cf87d8c0562db28a0003ea82b49b47541173876 committed on 2014-07: Offender given penalty notice
+Outcome of crime 935b854349a64900042bae9a963b2526530ca6c60e8f676b35eb56abecb71e43 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 4ed60b203cdd9d4eaba5a1dd721d682cf7655faf403d3eaf63f7cc167061692e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3c8271f1ae94436767461399f3b30a0a75a973d0029eb5fde790a11b9f190262 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 6b50ac82322e838a21b5d5b5454988c7e062019ce3e0ea9f4fb2d58d091aeb3b committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 51a5d19a113111b58dfd432d33618f6e933889573607b112f9288e1c608af92e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 03d67bb6082a90749006934e465c4d144c4469e85191ecd56f9c091ec00f503b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 172d6af6bcc1ab7d28e2d860d95b9fa9e3d2982c9c60832bb7209b0c9c8c9fde committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 25a1393884e94e2a0415a4621100e640f624cbecf9edc3fc6bfdb4043af77a75 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e5f656806966602a2fc51906395840a6cc17d568c19a48f89c8f92604ea96fb3 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 95d6cbd868d06c468e174f0a04af6d92dda113daff36db022d228fcf10ead54c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 416b013c2e19effda5e50479aaadb1dac90838202e610918ebef2e2338e67f5a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 035ee6b80c8117d744e493c9e1c8b36222ea499ecde7a24012d08bce0748bb46 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 77571022a49016b395604c86870d79726c80f8ac30a2b14d60f70ae9f6277ed9 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime fa0517562bb8fa67ab15cb7310207fdd38ff3e868782abbe0ede74bb8c098fc4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2a9ad8f347563191b477b98e027d4f448508fc944af08273d7cccbc02fe4069a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b54bfdae723d28603f3f9ef62a352ab182c21d585711b5438b1f489d339a2903 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 12538cdcdf219037bd707bdf755794330bad6dff08a9597212d3cb93131f0506 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 33ef34fc75a44e4ef6c68aafa3fe35fa69ebf9600677f1200523ba3d1b2b0f92 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime bd0a91480ca3c80d7d5ada96452ec27b71baea4341f77e4e8ca50f9a7201a8c7 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 025b93bfce25eb6c8aa43c33da35fc37a0e4d1cd526aa6fd8f4c728abce7dbf8 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime ffccb7835f0ee1a5078762deff07e835869dcd48efbe4b4fff1a95c952cbda04 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 78a5b30fe96dc01bb54262782c1fb0b602f423dd37723f00de7e07718b28dfac committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 999d9e2c382354425cea6972d54f14386cfde5143c008c0eb0ebeca879324bda committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f445fba735b662630f5b2f2ca6997f1a26c2dcaf6abdccb2ed17bc2a7174b125 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 16fdcecd34aa81ea257358dd9e5278cdcef0c597f5221ae7a88ee295cf906351 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 042ff18b7dd6d6064703cad4231e6845277c1f65450d910efa70a3ea71fa32ef committed on 2014-07: Unable to prosecute suspect
+Outcome of crime a489d74c153c144d53d5f8e49cea7cb70a45f3256d2481557c5ef4f30e1359b2 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2eec35a814f4944febb314f65e0756d412d0e7d003fe292a90f179caf70f6d8e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 404fe0f589109a3605189d2047d66c0954f3e6ff0da91f50c76e20fde637b079 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 30b7e40695e42e5f62030194018bf53c1e734513044bc9d8d9a0d2d63b9ce13b committed on 2014-07: Offender given a caution
+Outcome of crime 37123110a4d80ea44a0eaa67907e43ca1b7df2800517a4b57d9ac2ba2d69ea2e committed on 2014-07: Offender given a caution
+Outcome of crime 4b9ea5d27601c02b8662eea12cd0f26c2da5140b2ec856db885c1b46207808bf committed on 2014-07: Offender given a caution
+Outcome of crime 7f293e312c87b119be13352fe897888dbb151b774de6c752d9607b0a102d005c committed on 2014-07: Suspect charged
+Outcome of crime 072a6c3b1caeec4d362e27c94173ecb2f51ebe926d3be0b2bf3f53714e4974c2 committed on 2014-07: Suspect charged
+Outcome of crime afa3519a1b9982df96f477e1e5fc48ead1bc260b39b8ade1e2622a70a776af80 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8b7cda52cba418c583f7332c700ed546bf0af6e34ca347ed510d17196995bf6f committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 795aa30e0dedcc3206cb52fb88307aacf45877c7074e18a1d979ddae665057ec committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3a7a8d6f1631594ad8a0f551dced7063c3a1c947d362c16761594b5d2adb79d3 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime fca225db669f77f1d6e35bf642121425bc43f7e7bfc1c04f4f67f554674929f8 committed on 2014-07: Formal action is not in the public interest
+Outcome of crime 22138f77daf426d14e33e38b828753b200c477ba7c0236572c4ca30fa0e114a4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 64887102fd40ef930c9b95aa42722c6e4f9e6c53a6907e2688da645f7a749fe0 committed on 2014-07: Suspect charged
+Outcome of crime b202f115167d4754413e474dd994f1648d31977e278fec535306c951f23a0669 committed on 2014-07: Suspect charged
+Outcome of crime b0c4f7897b9229721c73325e8c36c75cabe1bc5ac64db2d5fc6cd576c59c8a7f committed on 2014-07: Suspect charged
+Outcome of crime 9ece8e3e06ea426ba850822a2af88aa7cff5906dddf9b7e24fd611fe7cb4c3da committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f8bdd41c0a72c68071ef29e64182e48148841f1d923d90d91e53719d032b5abe committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2b2f408be74bf1eb2d5bf779e0a782dd55b20c5d1c57a1d6402bface247c603a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 80d5c57f219fad8dd4dcc3256cef6ef350856245190f056f9b4331c8f39307d6 committed on 2014-07: Suspect charged
+Outcome of crime bd383e4ffc42bde80e96b18f8d8e94e7389fd92025ada13e87954a1f2e2c26ff committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8b22dad960a1f546bb1500d4275a88546b180a6bb81047690a76a7cebbb068f0 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 4cd4fa99db2697f9d3da116622818bdb705099fdc5d76407c677f48b25a581de committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime a7c2711f6e2557b9de5b572bf0b1282635c4e3e1fbccd0d225d32bf7e27f6952 committed on 2014-07: Suspect charged
+Outcome of crime b8060b64841f3a11a71af975d325c736da5d108bc0da4ee4bd51d3ca1cb0e357 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 65d4898e0effa0f41ea0e0d941bf97c7e738a7c51a33f7363af81214b828f335 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime da3711b1a6f05f938cdad74f259a8f2a1c6f76ae9d084d457bcd50308d3ebf0a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4ed9e2a39b31dcaee289a501f0b474fc0ea8c84e992d1695a2672fe9101707d6 committed on 2014-07: Suspect charged
+Outcome of crime 74c8217393057d8df791666c7db88ee7b70b7e1d6e272686d7ef5f06ab70eca4 committed on 2014-07: Suspect charged
+Outcome of crime 0ee2d07ce6032f05f703f427a854aa623956cfdf8a78a7fc599a8639b511cb67 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e369b5f014232633aa5ae25d7eac779207f58318a26b7b6214fd7af385925790 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 181b8ca04bd464599cc718b04101be15c6f066e35340e3d070db68176432b515 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d520446b9d2603691dbe1473f533d0e110055d9aa8a2e4ce054e1b8b7ec01864 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 373f7772a75767e145a34d468a0ae853d6e621f10e602451bd885129f9cbef1c committed on 2014-07: Suspect charged
+Outcome of crime f8941a4604695f95c4a95acd7cf11d48fdc667390a4dcea16354b45850dbc430 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime df06e2355cb474bddd55fdb1782aef01d7e6f73650473585e6bf213f661ff9ec committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 1c54e130378ee13d9b63d92ed1c0447b7af8ea432ba303991308d1b750607e8c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e923028eadbd6c9d6eac3b630286fcb04d7ba1a6b7d6205b2092dd14f9e316b3 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 4fb3a6f1870874f61e1d0a977fa247acd255e31726b74566a54f3fd8ae9c08e2 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e590b48fcd1d09fec9509e66054e8644e7c5ec44249d45a6f77bd4e33c36ddef committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 86d58f708cab5aa85f82a408e9003b4cd8e71d499dc1e88b84712c04ddf5e73c committed on 2014-07: Suspect charged
+Outcome of crime 1574cc1244bbb02c16f2eb1387f91d20dd3e750da0e11e1a9632e804fabb96ea committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 540736707574ac39ef1e33b1e77e018875e9cd9e921f65aba145b52b09a27c8a committed on 2014-07: Offender given penalty notice
+Outcome of crime b96a1fbc8ff1a93eb12a44eb013faca0010f8d40c1763fce77792a0528ac4462 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 35656e77c4e6b3c18b4797b6677bedd8d43f21d27f5a85df5426648854bec0c4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime bbca0f086bec85247eca541412b79bccb971fc6cb6415f31bcfa1c2cd2193910 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime a4cc99dff8e45e5907c1e8ef6c9ca6654f084c9468dbb48fe5e18144a95ca51a committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 86b55e6fcb637a11259dc649a229540dd2276eedded8bb5ed69d09f0ee40c47d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 1883fdcb132fd27c772cf17251736292b3538dbdcf250e021b830078aac57363 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime ae0c12f1edc32f679fa4242a962c1bdc72a81d7f12b3eec42a033fbce2e5ba6e committed on 2014-07: Offender given a caution
+Outcome of crime 0b6314e967a767b339d3550bfa5cce884113dbeaba2bc9da90ab2394742533ee committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 6ccf322a44296c494627bfcf687b876841b1012bb086919f9ff6903d4c795c5d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c39c7775dd93969d737e142cc10e59927552f3d9a1c5cdcffc2d2250a29f65c6 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 023bbe863523a6e096facc868d96b0953385fc1e3d72301bfbe72da4068dcad5 committed on 2014-07: Suspect charged
+Outcome of crime e12d03cdb32e6911dc537324f1b6393fc9fe3b0366dc71656e925dd89a918820 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime af0b829393da8ca0811068ac0b1183fa6b8c71c0e324b627ae9325b009e5a2f7 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 64a21a2cdb5ac6c4f126f4ffe8a9d52f43b6c451512d8b3bfae965557edfb366 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime a8e0aa416a08f848fea4bfe918b3bca6a492c5707f399d8f91a73ddefd4feeab committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2b9bf217583ae4c9fe19d0359656a405d5813fb899260e2e06e6e7d50c89fe27 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b597166b80033615f9caa067b1961cf2bcfe8aa7529340b91e64a0a15895e6ad committed on 2014-07: Suspect charged
+Outcome of crime 998cc1d1143492cd9d8c21454bdea47f48bf61b19327d053c60a76f4e553c51b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime de447670125f303444b5161da7501d2ef70d4d3ea30886a241b4a5952e27a1bb committed on 2014-07: Suspect charged
+Outcome of crime 2ca20299be65f925d5d62125084d22747db5eab34aae73f39cc0cfff5b23040b committed on 2014-07: Suspect charged
+Outcome of crime a80bb5879a050bcace56b7950fa1372ef3131f6f667bf46d818a0a4af79f63bd committed on 2014-07: Unable to prosecute suspect
+Outcome of crime c42b8fba449965ee57c322b0460ac051d6a1c47c454b973652881b0e0df86a0f committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 7d0029289c7e4b08b3704f69d86150619b70aaea110a8f722c4dcec5b18d8a2c committed on 2014-07: Formal action is not in the public interest
+Outcome of crime a28485d5c98c5d9774fb44e3fd70ec93f925400ddfeb48333e36fbe3780f6303 committed on 2014-07: Suspect charged
+Outcome of crime d3a257c08182421fb709dca34a47108ad262601c1b413dcf030d8f13502f8dca committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 7b2e9cbdf9d44da1f402990b21af2296de1a81589acd77f8b0e86cfea6b88136 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d55edbeb6f2bc15a73e86828f07d597d8a8701f6f200ad88762155ab082661f4 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 62903704908af1dc1987ebdc25fd546c0c2b068d8a67e24594d3f935503bc29e committed on 2014-07: Offender given a caution
+Outcome of crime 2cb0a60df47cbccc33c4ae2eb9f60740c2ae2af2325427e0ed4089406741d583 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4a1e6e4d9d8e114a4b1d6a2f0ee5fdf0a65b2d9537603245c9370f0e8db9e828 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 59932d463a30cabd919cdc08483d54b3a958a3fab9fb49031198b8dbfa7dea9d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 715b1ddbf7414d98f0bb8a0771f1f0ee94ac64d40fa5ea4c3bf9ae9efa7116cd committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 1148a7bd27b3f96f2bd0cd4f12e4735f78286d5c2b4d444ab8d2b0abd6d42c3d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 50a5eb9b60a28a162bbb5d2f178385a2484a6d9ea1c186cc603345738163eaeb committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f4fb5558974884c81425a3b49d00b14ef9884a366dd3f016beffce23513b840b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime aa080cd310d88199677f186e72d00a40ea177179cd59e44eef0f5df8baef21b7 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3319324c5014a6070a555c0c0382781208f91273f6b9f7f5ed82f8ae54e20ee7 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 67fa5fe8a679be000f2d936ea862da400f8381908494a228962b20a2ca32096c committed on 2014-07: Suspect charged
+Outcome of crime 4eaccbfe94dd4e7d116d598a0c59a33351dc5ca0a984a613d42168778d38d17e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5cab280550e148838bf1c7ad991e93d0574bb4fe9056824903cf66b18c836590 committed on 2014-07: Suspect charged
+Outcome of crime d5cf1da8924975b20fbf25a6c0c54004983e94879cee9bf20d9a8df4f0fda271 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 9b02c338767ae9de9320cb452074fa8f67531caf018b1ffb3804f46423a2e943 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 9b2c428f77690b8eb449311d713191e1d8854a2d8788450696a80d65af349b02 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 63665d3ecc14095fa303e579a07d836d4c2b6319375cd06c80ae0352d4381af3 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 24c738be1e859fcad0f558b2de323184676f4f82404f3a122557f53aeb58ad4a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e7502ea0bb37b56708c7b8fe1aa2bae99443083cbe950f301b958f088ebf0b6d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5c834737e30ab28288b8462095eb4d0baa7e0401fd87a47257e3d7ed1770ad6b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 6f35f48fdac485caf38fba93b4581ed690f8115ed2329ed54690fcf05c3ec43f committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5320d611b06e7a351fe2f6af00d3ba8f5f01454f8bbeb5c97b97ca16111e34e0 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime a28485d5c98c5d9774fb44e3fd70ec93f925400ddfeb48333e36fbe3780f6303 committed on 2014-07: Suspect charged
+Outcome of crime ff60da83b557bcd3269ca969fb1128920d260e83f887cde176c200816ec42b58 committed on 2014-07: Suspect charged
+Outcome of crime 023bbe863523a6e096facc868d96b0953385fc1e3d72301bfbe72da4068dcad5 committed on 2014-07: Suspect charged
+Outcome of crime 4fe6cf87834d4eb882fae88d4e042a74f200c3eb770afb86c4cabe5dbafd42ef committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime dae2a4fd0445de5800fd94fc60a4243f41eb40e1772bfec3d04a40cca093e0c2 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8adbc476ef719a0bffe49809918bc3f5a87a13f608d0ffa7862ef2346f62574e committed on 2014-07: Suspect charged
+Outcome of crime 86ec78347123e8c5e39c4433aa76ce72ca7a035bbb5a384ad2fff054709b3c40 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 4b34c023631223964281855d090e7ca959f3746f441d0cbb6ad27faa61906939 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 99abab7fd4711716f57db2e0f804325df4c71854825cebc6918625583d297c99 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 912d0dbe8755bcdc2b7b0454a9d0c2306d47c4bc1056c2cf5e1198de8dc2103c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 52a87bf9bd5afe36edf717ec02b7838c1d71115214d89ce95601a3b09d79f8e4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 98ccf1534b895d1ae367595e5d051223886ddccf71f91f4518b82a52e982dde8 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e737aa36923df57c73cae18e28a5a8ec3d7c012a2e606c2ab50761c5d29a4373 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d0c32fa5af5ec04d0c7530f26b957ece78fa784036c2d54adc07bc0b7ff98c28 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 7cf129eb6b34eafb77e1d9e639bc255f4358bf746bdbb45f8a9c6d01874f6c54 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime ea63025818f368798de01b02c7d47ca6c24408ac02001baf8c4a1132749872c6 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 04bca5f9a7e5c9883ff2ba3de5d6aa18d36a7fc0156cb92a63882d3750435a0d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e965f52d70487ff5ba3385eb0319f90fab6991a04bbf9a196760671b188658ed committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c049d4c15dcd608c91f1f545665082effcfda4ae65e9f90c68e86959dee52c09 committed on 2014-07: Offender given penalty notice
+Outcome of crime 8ddd20592bb4074cbe1b0e892b29f05e4f7839c472b6e977e8af2ac8afcaf322 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f816ccf3ba9fd530619c8a481fdabd1d53a174bf80244fc1fe7ffb058ec6c664 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d9f9f8e190d7f30848cd70c993f6f26d18ec6bfe12a0a2e6cffc9de9249f5974 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 4d8c8b9e42b9b7405638a3610b478ec6a9a8c3fd1782573d1ac848b57ecb6512 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 39d0611c21da3de48e39e596729c8743d6466f31e7136916adb075e2cf5719a6 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d3a11ab6ea687edd7bd330113b941103d2480fdf9fa399a3d21e3c539f19bbc7 committed on 2014-07: Suspect charged
+Outcome of crime 21fe9981625aa9a348355b0fc266ebd8a73d3eaae31afa81fadbfac695eed8d0 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4a63a9c3aac23b5dd0e5bcce99bb74c7507a1e882438c41c381e22e2b26c6755 committed on 2014-07: Offender given a caution
+Outcome of crime e17d38913eeb0c33d36d0f907b5cf36bc2b6e7b4fa5786e1c76349bee91e4619 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime dda7feba142b53b67a6ac1c0a2d57fa7838b98ed5ef74714f97a4d5906c2fd8d committed on 2014-07: Offender given a caution
+Outcome of crime 5e79035d0b70f9003a66a99d3a0acdff87d0fbf2539acef468829c61e795d2ba committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 52ebff873af965b356ef6bbbe14813a7779635c13e608a29936a5988d6a2d70f committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 46dc0f5e1dbd89496b878661d15c977192f8ca4cbd3e6207bd121cf7c953a936 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8ff99fcaaa3a5cbb5e42f226f92d42e6222dfaa819f843a1312dd047fe1e1204 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 66ca726c621e1ba92e1b493f6dd61226d5a0a9562a380d4c6c664357ed54f031 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4a4a7ebec483b03dc34570a98d8815a4e7a63ec178745682f47cd83fbd5e3e07 committed on 2014-07: Suspect charged
+Outcome of crime d53297895fb45bdda0470bd38ab37dcc4f5f285a8ffdc37f6ae80b20a9c912ab committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime a41f92c890df345c64d177b4ee331a4d8e33e73af6f9d95916473c6bbf3e5a48 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 9bbf9034e9c0d02a327bcc7072fa673748cab0bf7a17c09df0316afe895dd8b8 committed on 2014-07: Offender given penalty notice
+Outcome of crime 58432374d5f4e69520cb16b32d86b51e518fa3feaf55d3d64cdfaf94b5e715c4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8c7558fd8cc164062d446353ff841cb3a5db6cb34063487ef15da05c4cf22b7d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 531ff8d4dc3da5b97ac7fb15f729f10d2d118d0d1313ee9e292aadb62b7dd081 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 7b946983b8ec6e666b8615d82477c5eb12e2a7d6f54e7bfcd5edc25de0068f59 committed on 2014-07: Suspect charged
+Outcome of crime e93271a7b942bdf677b3458b25721d27aa32503aa7f860eed4729abbcb491a1a committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime ba46545156111319ca6dc341df0c5a5cb46bd8460a92016599a94fe41ee343e4 committed on 2014-07: Suspect charged
+Outcome of crime 4699414eec33ebb2f7f2aa38878294a7269abdca3adbb9022e51e9df55a35f0b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3149e97dcff6e4235847ff2c9a67793611ea48a9e8b2aac1943718620d55bcf0 committed on 2014-07: Offender given a caution
+Outcome of crime 7d16094fa96c119d2b3c67178ef35b8df9359c034d8d199b64ce9871945c0528 committed on 2014-07: Suspect charged
+Outcome of crime ba6fe4847e86dba6a750cc17566c82e7c26915c30b6bb4f6bf936eb73f650523 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d46eeaf4d7a61e06c334627af118dd558492567c33512d20930981f8cb9b2e30 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 5f64b41bc917fe35d2def2564ccc9db0f600a73bb2a569a1414e562dffb2ce9e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 405f094081a62e68362aec5488b9bbd48cd3aa6c35becc942b147455693607a0 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8092cedba340f5b222c73b0844f8cbd8538eb5cfd4e269f6dee1439f83b57b57 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c12bc8a07c8e19b4a9c42d4c9e562fcdaab78d53c13ac6aedcd3cc6459b818fd committed on 2014-07: Suspect charged
+Outcome of crime d366cbfcea974a23ff8f7030852adcf02e9dc5aab8ea0fed511bc9b41a3a5c9d committed on 2014-07: Offender given a caution
+Outcome of crime fcf9f0cdfef3ee7433e1f9f9cff318809af7a5db57459878cdaaae33a2361bea committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 16e720ec061fe4350e52412e5dbd660dbe19c07bc9739d5f019cfffdd5070e89 committed on 2014-07: Suspect charged
+Outcome of crime 1380c7c786b800d1128631ce169f653fcaaaeb9b83a005a954a19252be1d9271 committed on 2014-07: Offender given penalty notice
+Outcome of crime be1f9269f99be5495bd878993d5a0097e66ca6d0cfee601b8212d72aaca82e5f committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 217da071f8af9014b1b7f5003e0c2ac2226408a183173c80096258ed54c162c6 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime ffd01bef0fba1bd696cfe7d593270b89d636d72303e34f5bd5dd096fff5c0912 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b05d7c58cb88f20e1be1c03ba1f6b620665e79335deea99cbe3eb2bc3fdd8ebe committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4964651524cc42a63be7c6519e07b784a00e3e9730bf8263c4c9ffd53356ef1e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e0d06c8eb0de2f95b2c9b654347501a6be63d70067063e63a54b7607bbcdac3c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime cb8e79e241d0c75ad57b85b37851d23531647cf23e0d69b32f14e8010cd1b235 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 797fab2ba76073a696b85b9b7a07ed8c96a408a28062c2e5d42b3a34fd75d8d4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 97119433ba826778dcb1b78c46a9ae0edc6f74cd358756f4f4b587c673f6794d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 972249b96bf153bc49f99ff9fba3f8b2a2cac2a366941737c363dbf620db9d93 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5e6121c275c78824e6988c4b4d4866e507d55ee7f1a41f10127908a143295573 committed on 2014-07: Suspect charged
+Outcome of crime a6c19596a9af60bb1b374dbec9c2f1da88919bbdc7f798289eb664c211707661 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime dcd2c250532c57d1c5d8960ef06ec9789b094f52146d80aac48b6152e6304dd6 committed on 2014-07: Offender given a caution
+Outcome of crime 704466a07d464f3360ec2925ed9f8d73f21c3f01c7003ad8d79605713efdd073 committed on 2014-07: Offender given penalty notice
+Outcome of crime c27cf0608c4bab7e3f9324d5c175aa2a07709ffcceba8ed9f33ae3555999cd6a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 39041496437af0203cd970f97ec0b3b451e74b52a8442c19df7b19dc7afcefba committed on 2014-07: Suspect charged
+Outcome of crime 3d427bdf9bb0a7d44bd2fcae076e39a8e104f4e7831c435eef412f5150eb8ccb committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3ae167396d50ef8c1dc86eb439718ea7e22e59f76e7715167162eda1152dbdf3 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 1f7b0bbcc5ba4ef20c984967935ecc2ac4ff1c3efdfdb8c071d0e1411493b053 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b8adc1779d50c0047d13a68d7a04d09b6f881f16107762579a66532a4ddd322c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e213dfdb5d174162bddd0602e25206701c052de6d0db6d5f21a2743e1677bf89 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e6df74f07b14fe451c86aa32acb8bfb7717f7286ba318cb88147b36165d2470b committed on 2014-07: Formal action is not in the public interest
+Outcome of crime c0b228709d31fa549c851eb8de6ecf9f5429eff8232de52e33ce678817322ac8 committed on 2014-07: Suspect charged
+Outcome of crime 4b1c4d9511642929a129aafd081d67ee3eb1c2594f2b8904f20cc07fba976012 committed on 2014-07: Local resolution
+Outcome of crime 6dc7b0402fd850decbc7b57a508bf8e9719556433178d21620e0a226fb4c66ae committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime cf9fc4e52f19c799d3e2545fdbedd3064337f0475e99e5eb28caa47ac9db1e9d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime dda7feba142b53b67a6ac1c0a2d57fa7838b98ed5ef74714f97a4d5906c2fd8d committed on 2014-07: Suspect charged
+Outcome of crime 036dc60f1c02c114089d6d14e4d81e3e37c6b2ab08e8408955467908e9c36c54 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2829e94cb30314634dfe6c97bc7e51f558efed0209ddf1b0c59dc086f09879dc committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 36b24dd3d466f62219ad42a57ed2c967a913b6e69958cfcac4669850651ecf88 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8105de781d23a262ddc7d0c760c7b5b53cfa64fda5b3a4b442ab7859b6cd6383 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime cb6f9d8e5382688b9b6ffe21801193ab9dde36543b44a8cdb18fa6b1f57e0871 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c105db639ea7f2abd1f86e8b56273be6f73fd716123297dfda7fcc4b8a5ea4ad committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime a56d4d63e032af9a21f1ac69269ba3faca540172b7d47303eb4ff82d96c26296 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 8c15c25a9e0a89e0c0cbaa309a00df50de50fdc0cb570ddf5fff699907a6b38d committed on 2014-07: Offender given penalty notice
+Outcome of crime 578935fabafce1f7fe222164143203259d53d83614d7e54b9d9a7a42c4bf288d committed on 2014-07: Suspect charged
+Outcome of crime b70e2db0a0732e5d063e946e19c403b4c2e842da32cc940213117b9bf6561534 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5cb2bf9722e5d7e86f8ea54bab4e6c67483c86dfd7eb510faadd67447b5ed13a committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5f19015362c8fa3143fa8f2565e6b33aae49a73d08238b5d8f511d8b92ad83b8 committed on 2014-07: Suspect charged
+Outcome of crime 7c3d71f200f02dedcc7def8521a3eb173526af312e69b9541b25887d8aa918dd committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 7477d70a7bc2f36edb0ea09ae02da2f62e737c4dd7fa8de6674e381e0fd1aa03 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4961fc51a9dc713cec63f681966bd5695a3ba8b9733088973bf72f62bc547a6d committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime b113f68d7b2ded7e7365ae75205070d328afaa12027b0aa0a3eee4562ece00f6 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime eb72cc7582b93678853bce123de86116e5e3000d6a1cf3866335f9087d357c72 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 70a17ec48e581343c94726c98a1695820c77cf301e3f261475bbe3e110f78d09 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 273505b9e1dc6a48e17b5cc6f2e2908d96f3f80dbbb13d8e51c8bc37db60908c committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 8c2e3fc51d4ff7f6e12474b30c9084cb4ddf8d44d13a223d1321c50501f3df6e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c9bebdee04e58531f943ffffaaf828f50e4effc4357972d1b213ce007ec94289 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 8c8bc390e69bd2495998d672840ccefddae086595c0a961be768ae952ee6ed87 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 86d935d56f5f9caa47a112158c919919471ab3aa55b8b7cf3c2519555ce72a04 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 19b1f6d7705818c028b49e4caba03bba885ce5b6a172f89a08ecd034b24c2670 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5167c6e8dabd15fb19249d2a7d9e92d2422bc9b38b6d59f5054355ee235aef58 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5a17c3e5c6555c87014467f8049152e6762d7fa9e79cb285d186112dbddb43d2 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2c25bd49e39f5f813e4d997b68234e534ebaf1fa3605a1278375e0f635e6aa96 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 244a9f554406eda9c17b50a235049f03aae12da3cac2b8f584c7901e23e23147 committed on 2014-07: Offender given a caution
+Outcome of crime 4c0e036db5820388617159096fb989248629ca3408983b457b95e75d94ecfa7c committed on 2014-07: Suspect charged
+Outcome of crime e3e0f47ac98c576a2e1fbca7d868a217dd79d57b0e805767105703fa0e43a3df committed on 2014-07: Suspect charged
+Outcome of crime 39474f19121e857dcae168ff8654fc163141994a98ab2867390a4c09b9e5540e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e0cbeebc22f823179f1dda0260b053251f9884272edac1e6f118ebaff8ad6fee committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 3f10128a66de5d67a949e965ee29d38d0507c4638050e5ed387058f13a18134a committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime ad186e35dcebd67081d37cc2fbca40b190271ca3245756764d8cacef934294f3 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c83395f92cc4db8e70b7cf9aac790d3a3d0759d9a90ddf6e06bd1ed33224b92f committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime bc526385d46ab6ab76c23d536035c2a302b52c0336adc53c68db843a1616112e committed on 2014-07: Suspect charged
+Outcome of crime 5d41de90ae03d6e90574413d6443dba375cf490ef536174bf07080d35702e313 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d0ca6be7c363241324e8f47c3c0a3ab24268ab68f6e82bc27bb650d20aa658fd committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f9cd32a8c919904e5b9c6738c710d80842b1dd6667082b46431a661ca3406c9e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f054bb421ff7d7deb4c2a600625294105bf58b9a14497270512929bd94fdb975 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 1a75981e4ee5184d66ae96744a3e56c344ec062ec2f00b6a2b578a62f35cdf8b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 0c899cd635568c56b76833ce943ae39cf60762ee404aff33eb7f74a3d11677ba committed on 2014-07: Unable to prosecute suspect
+Outcome of crime daa0149bbea8cb4add4acca3ebfcdb877f815842c62749e2cd5806a76c745ae4 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2955cc86c7f1c3c83c1444c9e374320dec29861a9751f25864342b11bfe9f13d committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 3175a70b556c76a1f48c1fa8e22d0b472a6c0134c39672bc6627d80545653565 committed on 2014-07: Offender given a drugs possession warning
+Outcome of crime 168dac8b700bfd575f2902a23b5d6f19459939e036188bc30294874d7f28deb5 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 70c3dbaa6eb0a932657f295e20f479d2fa9baca6c10b8ff3abd48aec229dc0f5 committed on 2014-07: Suspect charged
+Outcome of crime dd22e97a07ff7f4f3d8eef1a28d067d612ac23c48fc6ff7c583cf550fb556c20 committed on 2014-07: Suspect charged
+Outcome of crime c5ff217c931967b5a67d7bf40f4c70a3a9c7dd5a9507db1fb97828aa9f4a0184 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 93f6aa5c028d28ecc2c72cb80a7a48705efa4bbb21f2f79b472361e7c38fff23 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 161c948c3cdc1d287f029fc04f97f715deae1f5c81345d51a7d9b2d9213eeb03 committed on 2014-07: Suspect charged
+Outcome of crime 6bb923239974585d622cfda4070f479fd09904a954a9a7ab67afd1ce2e5e176e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime ae01ab134bf17a1a76c5140b3a6d0c734aea440fc9d8955295b0dfd5ae005d67 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime cd59cc9562ad217ab800c4eaa87cdfced2588fbf8df9c97005cf2e8bddae1288 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c3a6e4d90d6f6c6fbc25267f305c1b1c7948c8330fe54dc1c1e5ce9c417e2e44 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e03234d78ece8f7af2ce71c7909caec478cab8a92f430f07b3995d2299514671 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4c4009022ce028398244e07203db65350039d16579e055f1d39ed0d93f68521c committed on 2014-07: Offender given a caution
+Outcome of crime 4e42990be7c2f48a31f956bd6c5f107b3bdeacfd993a9e0ce90d9edcf0e84385 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 46d8e52393d2059ef0887815992e6b4a8389fc6be526e95709b1d9669fe34d64 committed on 2014-07: Local resolution
+Outcome of crime 300668cfaee5e9b4992cfbbd7d42c7fc807d1c33fd814f09e619241e718fd8bc committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime f58a585a8bcd1e389c39a610e0f5cb8bd8195fff02d28fb18bb7cf40d7b38d87 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d7ee23295f60f5b2bfb186590652ff3b4765f246617f0ccfbf44d342f901e4b2 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4afd29fc3f0d0bb17484adb918d553958724dd5c7413aac9cc5d4bed60c295ba committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 14524440ad372874969fa9266df46a1ada39a1f86357c0d58be5b1bbe64acf43 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b35a1034e2542ff2c6fe43f4a676d061accd968b37f65b5a315c608ec6d658e9 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime f959551c6b367152d29b187e6cd3a200e3b52a5df875dec8f889dda2ae66177b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 72e27821dbf78363c0ac7162e3280c22b772e6eec108ece5ee02eec0bbf7c15c committed on 2014-07: Suspect charged
+Outcome of crime 2b70116e4889266f714a1d2a4cda213bf1ecb7f7e4f9307ed3c40bc721d85c9d committed on 2014-07: Unable to prosecute suspect
+Outcome of crime d16c0c81420b94ff4de7b7b7d8526f0843adc94bf3ce34bdbc840cdf1eccb1b0 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 0fefc3e3d3198cb2f88cfc96d707d2deb94d18ed440204df36356db04cb3ed4b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 618b3c518bbbc961e557dbbb5f7d7106263a3e823624549f05e1f80b69d0de86 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 04f2651e55845e4f5abef2eada4131cfaafb7123e92d56734e985081f07e531f committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 65bc5825edb6de2d8c73200fc4832bc8c6abfc9bfddddf24bbd15975a5b1f874 committed on 2014-07: Local resolution
+Outcome of crime b60dcc965f3c0964b20185f85c4bec05d4beb0a6517b254885fdfaf116da693b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 41a382639986848e7af5edf1d8c7477e45256a1b3ff05ac0d12080be8f62c00c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 6e3a6d3c829ecab0309f3f901274cb7651dfe6f2cc55ef2cbfabbc3d96e798fd committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime c4c9fe580e6337b49e99490284ebe08bad4572db6f9d0ebd94acf0b0c23c1df7 committed on 2014-07: Suspect charged
+Outcome of crime 2e43eb186461f9d52f00048c4dd6ef5cb9acf1f07ab305e9fa2829710b84bbe3 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4f0a415c046de58d073ae1855478127be882787546afcf07618d81e4a9de5473 committed on 2014-07: Suspect charged
+Outcome of crime 8e79e8a23267f3bf86d1b2981b7eaf3d9e1865a39043d381b65a214ab9a64d79 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime d53e9661db291a3d65f3bc9a8f744045bd413b5bbc257b235b38ddf7579d6f0c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4985c833de9f0d739379c5dc418845452495c171f9185cf343466e4474c2ea96 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 6e764df1e9509b5c94bd19879da6d69cb1810a4e745fe8cc4cb9624accc34be8 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime adf241e6b39f8a310d913cf31c035ca293c488fbd45019992257d9c72da0c08b committed on 2014-07: Suspect charged
+Outcome of crime 3544583389e6dc75b86222b32f5f299d39fae5a962c821f7e24ea67407b08adf committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime b597166b80033615f9caa067b1961cf2bcfe8aa7529340b91e64a0a15895e6ad committed on 2014-07: Suspect charged
+Outcome of crime 4f372cc880e378d96be4397fd1030d2fa60bcee0537022ebfdce9dc5342bd533 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 000e355c493dd79d8c82c4110fe561b00a45def816ccfc1b32d98c0ddab18f4b committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 0cc8eb663870764f8d8543d1a8323fbaad9a0c9804a955c1b9aa82f123295962 committed on 2014-07: Suspect charged
+Outcome of crime 0ebd93c8853259b8eb49e8cc351c937f91f51874d53924355eb224359e5f5ed2 committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 125a3109281a3d6c36790514a080429a894261ac7ca65f222a326be78749db9c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime ab1c1cf0c157a16f4b72332faeb02b304d29be49a481be7cee5bf27cdb95f8c2 committed on 2014-07: Suspect charged
+Outcome of crime ae2fb91f24f02100ad3ef4ad8ad488eeba3d822a95027cf4ea68b3c1b35348f8 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 1efe3191a58f98283d56de6eaf6f3565e095c8f3facbab7ddaeee258088927da committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4fdbe1d0312f373bb65a6976b13c04a473da5845e21c2504123476d9204d28d1 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 9c0e241ad2a871891c308cd8404c0cbdd94377964e165d7825aa34b6f58bfcdf committed on 2014-07: Unable to prosecute suspect
+Outcome of crime 64ee80ed474ee93b14860eb25c93e44b5b66f2e9a22b87920f52731cdab04407 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 4ac4bf6f2800c0d08e5169c76fee6b9e4985fd54f5afd5c85bda0676ed19a17e committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 0b88154f6602d117f78d92f48cd0d26fcf13ee92d36dfa8ab406c24f39b56ab5 committed on 2014-07: Local resolution
+Outcome of crime 0f0cb393bc504fc36b8247020edc7b06059c28b871a49653b56deec382923420 committed on 2014-07: Suspect charged
+Outcome of crime fbfcfb4ef9b49298387762f14d0b2187992d1573f24b35c8f8e5810737bfd610 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 5fe7d927bfe3320913ee67e41f0872b68739f7412a936026fcc81edf3fc785a2 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime bf85a7d35b971a6d0e1e3878b74abd4e7d92e20bbb3b3fbbd999085ec75e4383 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 19a15f03a104596102f2d15168019cbddb84228f5300408f8370b829d89c1f30 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime 2f1e166d6827333bdd5a366917391652c10961b211ed74152213065c35f4ef3c committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime bb4fc2606b45fcd47b97e10a3bd1be8bd9b749c03784211185070d7718385769 committed on 2014-07: Investigation complete; no suspect identified
+Outcome of crime e36871e025c980444d3c978fff73585a684d8e2e61d0976c5866c01eb3a96a36 committed on 2014-07: Suspect charged
+Outcome of crime bf05ed44cc5ec5a9acf2f205daa4f1bf0669baa54702721eb67da2fc8ca6c362 committed on 2014-07: Defendant found not guilty
+Outcome of crime c0b228709d31fa549c851eb8de6ecf9f5429eff8232de52e33ce678817322ac8 committed on 2014-07: Offender sent to prison
+Outcome of crime a28485d5c98c5d9774fb44e3fd70ec93f925400ddfeb48333e36fbe3780f6303 committed on 2014-07: Offender given conditional discharge
+Outcome of crime 578935fabafce1f7fe222164143203259d53d83614d7e54b9d9a7a42c4bf288d committed on 2014-07: Offender given conditional discharge
+Outcome of crime 161c948c3cdc1d287f029fc04f97f715deae1f5c81345d51a7d9b2d9213eeb03 committed on 2014-07: Offender given suspended prison sentence
+Outcome of crime ff60da83b557bcd3269ca969fb1128920d260e83f887cde176c200816ec42b58 committed on 2014-07: Offender sent to prison
+Outcome of crime 6777f4f42333762402624e336cb8642fc4c21f3f028d6611909e0a8f3ec55ba0 committed on 2014-07: Offender fined
+Outcome of crime ab1c1cf0c157a16f4b72332faeb02b304d29be49a481be7cee5bf27cdb95f8c2 committed on 2014-07: Offender given suspended prison sentence
+Outcome of crime dda7feba142b53b67a6ac1c0a2d57fa7838b98ed5ef74714f97a4d5906c2fd8d committed on 2014-07: Offender given community sentence
+Outcome of crime c12bc8a07c8e19b4a9c42d4c9e562fcdaab78d53c13ac6aedcd3cc6459b818fd committed on 2014-07: Offender given community sentence
+Outcome of crime 0cc8eb663870764f8d8543d1a8323fbaad9a0c9804a955c1b9aa82f123295962 committed on 2014-07: Offender given conditional discharge
+Outcome of crime 5bac06bcd17c2ac19f3f409a75c79989e05d9b29b18466b3725159be1b88d74b committed on 2014-07: Offender given community sentence
+Outcome of crime 16e720ec061fe4350e52412e5dbd660dbe19c07bc9739d5f019cfffdd5070e89 committed on 2014-07: Defendant sent to Crown Court
+Outcome of crime 747c835c4d0f2c367c44af63a4a49eeeccb6c35dadc5799bd7f3c039f01c2a37 committed on 2014-07: Offender given community sentence
+Outcome of crime a32ef07da84348f108b40084c17aa7bc7ebca710dc69e7635b6fc4b154d62bcc committed on 2014-07: Offender sent to prison
+Outcome of crime f42a1154501bbcb2e6a641a340c977dbed1d39f084cc95864c32b4403ade13eb committed on 2014-07: Offender given community sentence
+Outcome of crime 72e27821dbf78363c0ac7162e3280c22b772e6eec108ece5ee02eec0bbf7c15c committed on 2014-07: Offender given suspended prison sentence
+Outcome of crime 4ed9e2a39b31dcaee289a501f0b474fc0ea8c84e992d1695a2672fe9101707d6 committed on 2014-07: Offender fined
+Outcome of crime 3ca470c18afb80f84d763d4fa14cd50f4dbe3efb691e6b0d32ef59de7d4f72d8 committed on 2014-07: Offender given community sentence
+Outcome of crime b489558e187ccb6e1b1d06e1bfba3a81f7afcf18432fb3eff6da487e7c4ef3c0 committed on 2014-07: Offender fined
+Outcome of crime 7f293e312c87b119be13352fe897888dbb151b774de6c752d9607b0a102d005c committed on 2014-07: Offender sent to prison
+Outcome of crime 632a5f821264a928dd65b31aad9b969067079edb9613cebabc6506e36e09d26e committed on 2014-07: Offender given community sentence
+Outcome of crime 86d58f708cab5aa85f82a408e9003b4cd8e71d499dc1e88b84712c04ddf5e73c committed on 2014-07: Offender fined
+Outcome of crime a32ef07da84348f108b40084c17aa7bc7ebca710dc69e7635b6fc4b154d62bcc committed on 2014-07: Offender sent to prison
+Outcome of crime 51db99f42eb238467927d3bb4fdf647b4adfa0c135ada7f316fbf192e981443c committed on 2014-07: Court case unable to proceed
+Outcome of crime 1a3d399ee2722fac3a7235c6293dd362ca419e0b720418a5644f4eba56185a33 committed on 2014-07: Offender ordered to pay compensation
+Outcome of crime e44ea08877186cbde2542720c88490ca3f8d6814bbefd787a5b7ae11c64dc2fe committed on 2014-07: Offender fined
+Outcome of crime 2d9975dbb5732c1ff7cb5398cf22bb7d2dbfdcf40eb30171e950e4685d22e965 committed on 2014-07: Offender sent to prison
+Outcome of crime 8987e470f655b634d9468f627ae59927e005308558db501e74502bfea4f20d3f committed on 2014-07: Court case unable to proceed
+Outcome of crime 8adbc476ef719a0bffe49809918bc3f5a87a13f608d0ffa7862ef2346f62574e committed on 2014-07: Offender sent to prison
+Outcome of crime 90a6182e83564698d0d6bf26772aac3cea533b5ff075fc1334ef52e094ddae61 committed on 2014-07: Offender given suspended prison sentence
+Outcome of crime a7c2711f6e2557b9de5b572bf0b1282635c4e3e1fbccd0d225d32bf7e27f6952 committed on 2014-07: Offender fined
+Outcome of crime a32ef07da84348f108b40084c17aa7bc7ebca710dc69e7635b6fc4b154d62bcc committed on 2014-07: Offender sent to prison
+Outcome of crime 408faa42027c685f2d66027a5341b9d4da3717687d66de35d5efc8e58b0dc454 committed on 2014-08: Offender given a caution
+Outcome of crime 1284e73b0854f6b8a46f188ad2868faf41c41ebaa70705d9e0df2b4753e34f31 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime c5a6a843e02b3f4b5839be2e4cc91bf5d6c71a8cae36b05b8890e11ea151736f committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 3aa38836df0ccd84a9a8633c35177b036f63292094f6f60c0fa81a8a1de137b1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 329807f424178e775a77ef0aed0380cc3b611c6b195f903af230eda65829d000 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5376673f01fda90ba73c0990aa7c0121d118a23d7251249772efad3ee3727864 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 52094b58d0f05e26453bea1c60676a55a3be32f627c7fdf79c528dc466d6e037 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6d0866a10a4161435d23d8b289bf83aca572a4b9a0ab3519d175c83d9f5755b4 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f8071975afab913d18c1dbab7733d80c444e42f78bdf89a64ad975373afcb83f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a67fa49f7f2b34a4c9158f3c033ccd2c1a3c5f414be6b17cd4ae1ca63cf5adf7 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a39cdd047f1269116cbc364b5b8264eaa3f2cbf9e0b4d4b746bae2e781808b21 committed on 2014-08: Formal action is not in the public interest
+Outcome of crime 669ba8c3ceac76c30e44492a224529982b785616d6b15921f8d96be96d613191 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 428fb0fb14a5191eca3b4d4d5a8521b4402d6d137782da3ae6a0dba3cffd84ba committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8dabf508d85b130e66c77e93f68b7bcb248faa4ce00bbb6a48f0bc993c00b34e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fe5f0a419fea35883eecc197847f43207ef3ddeeb8471c19a95d84145d2ebb66 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 69c62972b6c30ef6a70c17e70809519866de48bb3ac71f0832749fffe0dce227 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime a74f5238165ed9f0936ed2c63319a4440efccd7efacf840955c277fc5ea16526 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5024417951ab5727a4d7012c92161685e9406dd5f08866996d5b7928297cf488 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c98265891142951278b23c73d546de5bfe1dc8fcf5ff74662d5b73db264cdc2e committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 92350fee72fb4b3ab1be5b87ac973e805c1764200a4da89c8e706b06ca14c988 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a8913abd1a34b8d95fa36e1f9ff2c48068009d2d2086687e6a94c9411eee549f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f2da78c98a9813243f48e3479cd2cacf6a5adb0c3ec738db18f73f86bc4936d9 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 84ae6b45e5802079de3559292291100814bfc9da1751bc802efe07f28a109796 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime ef450d3e1369b3d6bc71da85796524cda9a394ba0a43a958e9a2e96aa8d46c5e committed on 2014-08: Suspect charged
+Outcome of crime 6ff87dfad97a6f4943da1cc977fe8007ce1603e35f1bf48c3d4397e9ccdb9aee committed on 2014-08: Suspect charged
+Outcome of crime 45cf817b1b119ba04f22890be4534abb671ffface37089adf05f79173215b1b8 committed on 2014-08: Offender given a caution
+Outcome of crime 4edd993e017561bef9a8e2c3b851de13a92b7466ae5019c6e442796eff6cfff9 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a368d8d0067c11e0a32d0d74be1984a44aa0dd6347b76284131b20cbf4933f42 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 424a1cc565ab1803fccc8a739ac9076209e3fe81bae13300b090e6ab585b1c02 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1ddd0f7c95f9523e042f089ae8ef8f5ca374a6ea9dc6d705c7a641b8abc3eecf committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime dc8d72c69745e6a61e13e63cb9139ff6d1845ab8e61783fa2b68d60498c1f4d6 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7a6229a2daf81e2cfe35770e9deacf4ffa82495cd15911058947f0ee4f080db1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7a9854e0558d4058a4f49734ff34f77ebe35181b183be7b47e0e3633ab07eb46 committed on 2014-08: Suspect charged
+Outcome of crime 1bb5c5a703826afd7b39b4749e68e4eb0909ce30f85de5e6788ed82d0ec0c7a2 committed on 2014-08: Suspect charged
+Outcome of crime 1188273cd4c3cc05b8efe1ebbb45413d9cdfb5418487dd8c7c580d9a2fbe8cba committed on 2014-08: Suspect charged
+Outcome of crime 95b54083ab2a5fc12ebb13f7c293b6ae758062282b1147ac67995dd4b57bb9dd committed on 2014-08: Suspect charged
+Outcome of crime 05a46d41e0c9d899d1083f94b91ca12d52fc58506779c4a46d339bb102c53b77 committed on 2014-08: Suspect charged
+Outcome of crime 9469c691538d8e6630670ebf5a30be47df49fa0359f5e91ff6bd6370a7212444 committed on 2014-08: Suspect charged
+Outcome of crime 999e7804117a0f8ecf011592c2637c31fe2a8461a572f882bf524011a8ca8fdc committed on 2014-08: Suspect charged
+Outcome of crime b6d8d27a4fbf9cd80dffd5f7f63bdaf9fe7dcc355ddc26e71158a98208fd90e5 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3dea6a53a427c3d201cc784486f570fef747d6caf187212a6cf2429f866d9c02 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 0506564f38fd920293f396382912a8f7292c9a0a584e063925f4a29103845209 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime dfff1035257920766e3b687fa9ca4a3352454811960b3b2f93dc91cc8e76bf1f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e401d04fc4d53f7ef62180683795c11ab263a60863e0fb332fe138047a055c0b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5ae304401ceecdca7ec9049dbffdcf95e653bdeb76fd42aad5d056bb4fb27fe9 committed on 2014-08: Suspect charged
+Outcome of crime c13973fb333dd427187b362e91b3004477799733321af3f454b68f8b6b4ece8c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ac2270baab69db1a6a19bde98f34c062be21c4a6142394a0c7dadfbcb995d262 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 149ae0a632a165008b06ef0391a2a690651db2ad0e7472f7d359d5a6e98662ba committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3084760fad93f1e501394e7046a06a27a448e11baa2ffb1fac91a014d084c2d2 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 810a2e175949ddf4cfeb40750c03d8db23acce0004122be8fcc5f25a3107fab8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4faba288001345c673152b0c9fdc6713ff2377769d3ad550de1d31684bd3a89e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3b3260433d288c25f744910d54871ab9c8f3203ce7372c345f5f9fd53489b46e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 066fde1d0ca776106428f6766a44f83cf80fa5343c984d8d30bd01e9d7f7d80e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7d6f9422a34b6d9d03447c4837c052b75ff636e4a59b833b3252740d284da7e2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 133dbbcb534e5f94ce9b6a4bfed98ab6b98ed60c97a4c6d5f2e9ece9f67a3b17 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3e5549becdef0260dc439cf79494812828d8b47f2b23146bc8713f935d5702c3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3f5cb4fbfe07cbc653a9adcd0a06c30fe732568fa0b732630741a9fbdf5d72ca committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 662200670ae3371f7c5a7bf0ae0314139499971402ea796ab52c63ef69f04451 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ddecbace5422a550cfd193ccce7cdb250c20d4d450461537cd4da240d5f30935 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 45d4707b22d6ef515d1d164da88eb04db0ba8d30b840c31fdb66372436aa1a69 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 737669424bbbb487c0958f4dc06e19bde8154dee92de9f5ec04dbc38963e3ee7 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ec5cf5d536e11ad928c0ecc7f39797e8ebb7649fc8883226b604d8fd7d6c08e6 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4a32205b1422433c4955436e0531dd4cf834c68676d0fb8bb6b8a1c7b646ae66 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 9dfba4a95e4ec20597aab4a0a7e20c8665d353fe15499637b9ba93d2acb78327 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime cbe7867eb810be1c1e70fea051fb26ae9697f51d0cd53639cda67863423c75cc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7dc8192512882b951160019c5347d65e743425f089d95881fc6a0f1282fbcaa8 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 667362dc6d0f2a356093c678690e65549c480a5f7a53b76487408d99736a60a4 committed on 2014-08: Suspect charged
+Outcome of crime f573e5300c0db540b3f4e5d9a52161700469cfaf466adb9162d62c4e9a4c4559 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 2a9af88a9e35e8b0633330311a386d8844f9544d555856b20f879dc37a6c3895 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bf301f3478e47d0be07c92a397b2aa73edc2cdc5ea32cba29532f3445c770ee7 committed on 2014-08: Formal action is not in the public interest
+Outcome of crime 34f06520c733625cac2d26f7f509c8771642cb769dd05001e3af1a17df701402 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 62d9c0b90c65cf0967e0f2cc545f1c48da7866ff147e253dd425e7caec16308b committed on 2014-08: Offender given a caution
+Outcome of crime 19d4a49d405b6890ed977ecbf6a9d17a018d6ac28b4835764fee7b3a1bece39e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6f5942631443bee4b88a693b183c2ef48d602678e5cead3406982fa1a65dc7b2 committed on 2014-08: Suspect charged
+Outcome of crime 148c4468f608eafb01f4a78cc80ef3f8c3824033a41a5407d82359865ba2b8cc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c81aa463155b644b907fd69a5661dcdc546b4e883beeada5ff5919541a820e75 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 051bc0b9546f63d60cb909f310f370a901d7ed9496dcf1b31a08e09c9052f19a committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 26c5e723f4b39ed00ba7f727f43f6749a6007315eb34ff3014b617d58e7a6906 committed on 2014-08: Suspect charged
+Outcome of crime 3c8f498fcd82b097aeb1ef47b401ec811479581d238e998576d5edbacc4852de committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2b341d04c4428a1d536fa6162a1027a5d9de5d972e2e14b53970edd5cbefb050 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6ed32b34d96f8c44f4486278cc12dc49410c37527f569391adea6c0353052e16 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime b8dcd9bc85ae7931c43952a6051d3cd3bb9d0965d46a5d2491eeddbcb3d06e71 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime e1ca1926d675485cc1733fa9102a9b11757a3e9f85e053774c8215eb62ee33db committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 65f78854d14a39e7613ce4fbcbeec46602503ef17d5790b80d55ecc9ff4b6c5a committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1e26c4bf8f08808fd862d6ff13325b764c5be45f15cea178983b72b585f9e677 committed on 2014-08: Offender given a caution
+Outcome of crime b1f205ed04ba2cf90de8d318d35f0e048f905c18e064d463f799cf5f8bb00915 committed on 2014-08: Suspect charged
+Outcome of crime e374f48acd77845706f6dd3933d094f534e5ec431b29f23e92f0c9d76427dc03 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 97fd702d994fc524611b25deddc5fd97998836cceccc500c5c1ccc9b62031cf7 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3e3144d95404d4443b9c3566f7a236b05619c89094e47c14157af600376ea0a2 committed on 2014-08: Offender given a caution
+Outcome of crime a7b11cd8dd001075f084d437761b0b846e4d484714ffe5d30cdbb19ca8934c33 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 11dd6a65079dda670e9d4b022b27d27bf4a35e07567dfd190cf8a647cf48eddc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime de7e5c9694778510af9a8845921513a90b8df15e13f173cbe5cefa744c511656 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f5e523a7a1a7feea271bc3451e6054ecb3010fa4284bb339121f8f3e482cf5aa committed on 2014-08: Suspect charged
+Outcome of crime b9a1eb95124de6c9913d1bab38ca48ad4371b09d2fcb53e8c9963927e55bbad2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fb05cafc0f37f03289dad952692d2920f114172dcc7cf8a3679090dbca0f06b4 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bf05ed44cc5ec5a9acf2f205daa4f1bf0669baa54702721eb67da2fc8ca6c362 committed on 2014-08: Suspect charged
+Outcome of crime 6898a23ea7a2233ab3efcc3b26e0e8b7e5abced5d7e687c9b9785618652c17af committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 12a0132b41ec127d60be6239626ebc244afb58f800439549091eaf6b39f8e9f8 committed on 2014-08: Local resolution
+Outcome of crime 73c20790c0cbcc5d29510aa46a64f5112de062703a67e84564455420340d22a1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 33ec456762840816b64f0fdbdc33c7ad97e1bf19fa62b764f3eac1901f4c6cbc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 324a40f7da5f81b2f6c96bc6fe3e300173782e3342f40921c53fb7dd3c5fec2d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a6f79e190f888c50e269cdd1923d3132380d8409a636a040c64591e82fe99245 committed on 2014-08: Suspect charged
+Outcome of crime 99af03c52d115dbb793c0fc0afefd9f884393d674d3b809bb15b4a068f0b2eb0 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ac9bd1ed3e9958a1b22badd7196fc8a6c11623a591b76201816eb210c111cb78 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 75f9d9e2a0768ea52351360456328d983ab002348ef94d9d99d4d4fa8c9b1edd committed on 2014-08: Unable to prosecute suspect
+Outcome of crime f9e2123f027e4612b96cad7aa143f6d06d53d760fb4f03ddbfb5b3da05711cb4 committed on 2014-08: Local resolution
+Outcome of crime 722db2bb68550c19bb39c4d21e3b2b7b289949ca3bb8fc9c7adc2368e6d2a3f9 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ed22336fffa6d540ffae94632fef9481678602199dc1bd88d4c47e46da41664f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ffca690e073a390168b41ae2d9f8fffca99a679eeb3ee1e7bb2a8e932d0102aa committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fd58d66ad57a9be81e1bb2ed6c5d52cad8a29f8e75cdc9d48b5fe6282a0f5c5a committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e2e21887455a3197f2a549d8ed64dc2aceec49e9e98d431256c0c6409da35ad8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7050c1402eaa53e5e32f07f08bf6c0b481507a54875e5c61d1654107509c3f40 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 33990d554297fa426a6fe05133ade1919c93f18a392abb89e53ef326eb94bc22 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 07a3bc4a5ffd60577defa34495a010284c83dc048c42af0971e8d377307eea87 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime d6e91574c5dd345dcc7f103e18202e408b2ea2f27ec22f1b6d2f58541a079e07 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 10a49f55f687fac51d773735f5bd1055554622248f54e99bcd16ccdf1ddfc9bb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1b859b4abb2501b1c0b4299435687d6eb3a2410365f0862bc66a3c0224601e5a committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime fa3ad5a1141ac376bf7d09b18af390e0ed3ab7ef0baf67565a332e0f4e65fda5 committed on 2014-08: Suspect charged
+Outcome of crime fb3c3951bfe8be8c4eebc1d821c3dba53e7af174a9851cb8e9a6e30b35453653 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2602acdf692f3bd8d8a2ce02cf1192a502759e6dfed2520cda0fe096940474ba committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime dcbb0f459bfe860f25c452fa99a18500f196f36b7c54980880a442364b33f012 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1edc8c60cdd3d3f32e280cfbe30baf1be426481f3eaed75ff2649db5dbb29089 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fe27b31d8e08c446738a1bbe11d7574e325df13de94c9531e930d415490ebf6f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a624e404712139d47b6d0f5f78cc3a4b406a554a3c13188ae820eef598448d09 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e65141d742ef94c74ca17f66ba1f8b7b5c5f09fe032412de3c1eb837bd4439f4 committed on 2014-08: Suspect charged
+Outcome of crime 89a630c5aca84d58099f7ddc3f8a7886882cf97d517097a5d547e23a783a215d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5934df172076665e8a652f6de3de5b4ddfe12b7cd70b45738e768245a5373131 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime afaba833b78f67273f01a6c2781ed169e6e67667b2daca39ddeb34ce4cfdc8e5 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 021318bf1c51a4c218d7200a70fc8ecaf34012911e440dd1ff8c7a42fa270d61 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4447c9c6184d26e32f6b5a965aa9330075c8f82ee2f7ea5ba7c6068964d6b4c9 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 60eb0b583c2c467bb68c92aa2d296a16ae4f4e2a8d44bf4af9cf98c95488aca0 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 319ab6fa53a7801b07c22545b5798e138dc408cd48a5143df34d553cbbf7bc01 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 64d9e178aa069d8778d8be86ce3ce9868cdc32f1d7f50d97c469e0f816a495c2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 59fbe3f8ecb3fbfaf4e2ca7bf5fbe18984d634cfe775f36b4d6e0fcbff6897ba committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 03dd4ba6d3388bc74fb4115ba73c9c60ec7af18e81bb71de13393405a454b594 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime b7ddad9a69f2b9c32b4b154ed9254c0bbb5e58042e44223733561dbbca22107d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e5146b30515feb25cd2fe74bfed35bceb36f067f4f97dae69c3f620cbab4dad5 committed on 2014-08: Suspect charged
+Outcome of crime 2d1843be9064d73bf211334849c6352b2572bd119b03c021d6060e5617a7bc78 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ac68f702ce559107fa2c5b0b2a3053e74a0045f8fcd3a02ae69cb05909e595ec committed on 2014-08: Offender given a caution
+Outcome of crime fd2ceb00fb66c9b92d922d8f719a707ca4d74200ffcf648db13633647a12c4eb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3f9b2ba26b23f3793ee1b52d915955f0ce40bc66d5c7670b147273f31074cd0a committed on 2014-08: Suspect charged
+Outcome of crime 28accdff363300fd6c7478c5068204cb1165374c188599ca4893f61f7b5c55e1 committed on 2014-08: Offender given a caution
+Outcome of crime 86d53330253d885abc73dda2c683aac43fa54dda1aae31135d7579e7823c4888 committed on 2014-08: Suspect charged
+Outcome of crime 6b71b64b9d165df60f9ba4c18d0fd1e89cc6fd017ddd814c147252372966d0d6 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5faa3a4e1fb9578927981501b747858c0c7b6dae8b8f3181a0090e9ada6eef22 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 90a6182e83564698d0d6bf26772aac3cea533b5ff075fc1334ef52e094ddae61 committed on 2014-08: Suspect charged
+Outcome of crime b1919176106909018476f9594d715cf3c3656503b9bf271cc032a76ecd7d87d1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 11cac8af735c75d2d74e88e4ea8b5aba319dae4cf6389e575da454de9e99b6d3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 507f380fdf3b192ce8f1ff063faaac1e2e5b913f0ca8b88658f4888d0e945cbe committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 625ee3868054caad0563ae9dfdef4f0f27ec09d981a3427973de68280d228933 committed on 2014-08: Offender given a caution
+Outcome of crime c2f95bd3d6e839c3ce49a497c8af74eb3560ebc7403cd7ba4267440f6cae7a7b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c56d9c28b7f9fc910129891b41d1b5733485a74e71a045fb9486130d2f6a4d3e committed on 2014-08: Suspect charged
+Outcome of crime 363945c4245939d55af8635e5d30aef79f558e88f5d3d9cf1875c7bb50c67e57 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime caefedb4efce120a78432d0df5ed5afb67bdc16935ad220be8a0d9787286b691 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1b93747d5083c12882cc80380c3fd8f4b05f144a78d90db527bcf7b4eff35997 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bfec6bca01fff0d4f4fd9932ebb6e66da3da9006c3056ce75b8ace650d8a9d11 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 31e906b3eb8a99c71eeefec0b20d5c9178dab6c13a3fbaf591576ccf000e3307 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime b64ca94ee9ef5a91ab3a10bfc352edf95cba99490b98bbe94e56f87a64bdc269 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6c733df9fde55ebe1330fd0c8a8e5f900d2be5c1be9e271e36104cc58767df44 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 49c026d3acdfae63339184d754f7ff2b27d9625c3e36964d732a5cf8d36dcd1e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f2b81a6e18f5071abc3e37e454599fb6e0b271aaa95304f55a893ff5a52b1dd4 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 9b38b7b10011a928741dbc82a8b9139177260f452e6fe55ede67ca5b98c4e0ba committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 31d780afea718d2b0f001143346d81682221dc871953b1724c9463f50444561b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 95723d728af907d820012aea0f1c3516f4a96f623cde192d579a8bbd028988d7 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime d96458c1f383291e29c4637db56432f62d784f88a2daa4a7c5d1588534685e25 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a144b9bd91a636af12ceea764c1ab77d601451e44e3de3b945299b9a953c8214 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1c5c0fb7a58f38c93949106307c131c3e39b58b2b495d1c3aa053a4bcfc4b18b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ac7bd467099e7fcb6dbfe33bc6df0cab4ea8348c8fe86488d2ec1c2c2a8c4bdb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 014d63e947d4be1377a394bfe9283719d78ce93a4ccde40f8d9ed2b574225424 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6777f4f42333762402624e336cb8642fc4c21f3f028d6611909e0a8f3ec55ba0 committed on 2014-08: Suspect charged
+Outcome of crime 7830e3c7499189f68e567d8ea1057dc9f607fbbb933c43460e4e7e735c9f48f2 committed on 2014-08: Suspect charged
+Outcome of crime 1770f986e9dfa2654f4a1ce3d0213d4c18b082f9672495a038655120456ff459 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 14bc08feea070d07d9a342c38bae7189f7b03c1db5dfc0806a72f0c70e6fb5b7 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 0b2dbf368da122c62ab604d1b9d3be504fc464be785026e516ea8457ea916ba5 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2c92c71595af48f2111bbfcd1942205c08e1daea57348a41e5c9ba12bd5467bb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 9a04aa560352eccf40649240e1445eb0bea2447ba282387145278a9066df8f5a committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 2734c9237d178ace0f9d873f88f2dbdf149a0af3e4145fd1f94673f38fa3e64a committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 632a5f821264a928dd65b31aad9b969067079edb9613cebabc6506e36e09d26e committed on 2014-08: Suspect charged
+Outcome of crime c51c5bb2f456de65a26a87dab8c45e73a64eb78fb8884be27e8bbc39518e1a2b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime b4b81e4254d11f462336cd5839537d71bcdb33ce5ec992cd534dbd74c94cb4f5 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f08b2b759047ccfc1942531daa11847232e98047f743ff84a7e89cb24e4730a8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bc1d0e56eee5b76c220bf3491e763aac84e2276df1b14c1e48e8d28be3676ac7 committed on 2014-08: Formal action is not in the public interest
+Outcome of crime 667362dc6d0f2a356093c678690e65549c480a5f7a53b76487408d99736a60a4 committed on 2014-08: Suspect charged
+Outcome of crime a22866a0ae178dce212b5ebb88ea53907453bc5a3bbbd3f45712115cc4f96f5b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime b4a69db7502ff1b39f6800de2b9619bc62f7b1b7e639814c8fa52975b6b6d085 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4f06988d32a79ee2ba0903f781afca6da49e97b568cee83aae8b6b9091ce9e22 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c83eba5a3c9d011a3249c496fce443ea83ab56d34344ac3522adc853b9297d7e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 90782f70ac17f69fb2bd679cae76d151a75005fe2b16239862c324bd94961d13 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6168d271c682360f94f1377ac6560593738b93e7d6b0c456f8ea6b39428cb62c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f24a0e5e71a45b3624c552911e74248f967d6ac99a4cf7eb8247ccfdb71640ae committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime caea58b7cdaf569d346775641fb3cb098021288a74be7a794d4563967505085e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 23fd3fe79ec08356a277b733dbd1c2c19d2249a3fb6a4393a37f74fb6646ac8e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f64b316149013a67c12848b1607219b2b6f2d0b38da8d78f1f0a1a54e5012182 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 50146151e51888a86211f194347827a6e23ce8cb5801ed97265678c78cbee893 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ed2db9753894874639f6491e9837ba937c57c39d105dc56f84ccc4c3e514d5d2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 732a08712f4f53e667bb13fe1d6a55d338cb1d309a07f1ce5a904b247d78c206 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 43a2b72de8b4d8fc709eaaf9574600e59a5fd9cf686b0363fff8dc0d42581997 committed on 2014-08: Suspect charged
+Outcome of crime e97dbdca0918584cc48d4309bb5eb367963c5cc2532abba27f0966e2fb01e4f7 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8f3f378d15f6c71d52828e4093cbdfabfe88a09bdcdd0d31bdd520174f1bf97e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 367dfe022a432c82d4b648b43b5a929e8326882b5b5662471fe4bb24633acb34 committed on 2014-08: Local resolution
+Outcome of crime d9753da3e51adb0d7fe9c9cdf678b0a58da8a501ec55db161ff1a26bf442faf2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 99eb5a8e7851b1b9121a6e4535c22d1feaff76d5301dc399e6f6cc4d32b44486 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e8f2263cf156bd38957aa40236f248193d7b74eb598374a616bb2fdd237b49ba committed on 2014-08: Suspect charged
+Outcome of crime a83414a2264445d6b43f700965961903d9f45bd22569edee3e3422b4129b3edc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 596ff16331206408495dc47c95d26583886b809b33da488e6c29a08cf0d8256e committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 9826c7dcd33717a7088197e6464b1c3036f700637c044196896b91ea01c4b98d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8d22be2b39f19fb74927f1d8fd980c483261f280da917b044344fba7306fd37d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ddebe0c1e79c28ae3ce01c3e8024c73440ba97fd697788a265beeb631262eda0 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8a26c769f1a6d13a26c1f9817e19aa2d4637f19cd5b5a291b23b9bc4aac4a7e9 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 63f215939eff2c83b2292067673217f349da3932d15a1624828838c9ef4853ac committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 63967b9ac011000f4974968b0a943d0c60d37546d9a7c3429e4fc2df63dd235e committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 2f9fffa2d3504aec97b2a0aecfb048a184d87e5f96802221618a22c5afad8778 committed on 2014-08: Formal action is not in the public interest
+Outcome of crime 7b9ac69ee85618e635bc23cf90131a5a461252746518214e29ae119f8c275fcb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7bca40efbd8963cb620477572958d8511cd7b555989bc9111b5247015373599a committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8b48d995a5dc6b41f3c8e90ae8ed4291f06f84825167335848be8a23a1346cba committed on 2014-08: Unable to prosecute suspect
+Outcome of crime f496b6663641adf00f125b934ed365fc362f312344cc998d6cf0959ff428c39e committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 9cf0488ba32b79da80b7e23e6a51265d826a786b2f9cd0b0dcca05a6f8c50bfc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 11a6df55c959891466496570fc5a59b59b90e264ab458bf830536970fd4bfb1c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a631267deae0378a960289ca7ed0cfe5cd44979e94b14105b3d1d82cbd56c264 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 9dc77f760404e47402ebf565021da23806222d0f7d8733942dd1d9d8ff6cea69 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime f4cc70f394c669f26107ffc2d91bcf2bff3b239dbecc470f365252c9cea70337 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4e33a561526128753d73cfe2ec6eeea0be2b6f0b940849e8c793d49aa8ddcd7b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime dabcc3179b34c05353ef584dd0e625fb91a92976e0d2ff0406027f21c95330fc committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2ca24ab0ccfb481b00afaa8eeae349ea626c2bfbaa976b5b0f7a430bad33f81c committed on 2014-08: Suspect charged
+Outcome of crime ff119abc153e634138167646d0bd50c6d71756ed5152afa966a1e8d676c2dbbb committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 2f4d4ec8dcfe5f57cc3c8fa319d63e956ed3913639e7d9634527217683be109b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 22f23a1e4e0a1a029b4c1571078c8f2a0aad2deb8e6bdf5539b12c14a227417e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a430d8afafed8ce8f4ce4f344b2ccc0d44da247288703974fa1e2ea11794fc4e committed on 2014-08: Suspect charged
+Outcome of crime 1cccf3338f15c24f0c2f5f6d9ff74ac38f6953db2e2bf1e11cb268ded8266c5e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 43a2b72de8b4d8fc709eaaf9574600e59a5fd9cf686b0363fff8dc0d42581997 committed on 2014-08: Suspect charged
+Outcome of crime 4a74c1c61853506aeb5565ae3c0864d5f60fcd6ff2d125960d4bf13bbf170e2e committed on 2014-08: Local resolution
+Outcome of crime 545f914997fe2de4988014d2dc699a192cd5857802467e7aeceed7a94646546a committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5a023bfbd41c7f71cc0fadc31a5840869e6ceebd3d4f62ec3ada7a9eb565966b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e851d06b53c29585e156dc82331c87e5ce6d45bb773d4e391f56e8385855760a committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1d69a76c32af2589f844b79469208f6c95f11e032578e6f8398a1196b0ab3571 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 12c0d4aabcc8a0e6dbe4bb51b5b47d55f0eccb9210b9e888db9a417239a04862 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e5bdb477f0b39b8940e87c449657af18f44fe48e4bfcda6b630d55e59cb5f7b2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 58a7f4bfc441ac29a54632e21754b404ced38a6275746c1da70ae8350e3eec23 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 6c905aec899ce7ef72085e5be5a96fd8bef8a5b49eb4dc5a1225a8cdcfb889ec committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 51db99f42eb238467927d3bb4fdf647b4adfa0c135ada7f316fbf192e981443c committed on 2014-08: Suspect charged
+Outcome of crime b3a5fa436dd8bc02f441a64767f5406e43bf44624e63aca1f15948a433539c84 committed on 2014-08: Offender given a caution
+Outcome of crime bd4736428e5f9c1739a8b4d3664e3296abd820f305bd7635de954aba8f62cd49 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 07c2a9b407f8cd3f51c3a9d3530c9a6412352c21d229f0ee67ca30442f84c3a5 committed on 2014-08: Offender given a caution
+Outcome of crime 99e030703150ddcf7c4d7fe093f2b591454e36a43e2c9aec6966ec7941a2a39d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 39897c5d8bf3b43f50f985cf2366207d5c0078eafc6d09b711f2641cde745387 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 66c0233f7e8e1727beffe3e97deb0d4d73eb7cbcb06320fa9725fdff2977133c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c0e92750533e0415e955d6c2e04c7d2e24e167cd89ca9a0af4bbd6d1a87e16b7 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 46a7f873058e9d51a527b80d2fe694ee2e62c4069da2baf9b1e0d95a809e620c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 51db99f42eb238467927d3bb4fdf647b4adfa0c135ada7f316fbf192e981443c committed on 2014-08: Suspect charged
+Outcome of crime aa344e1fa9f3efd0dcb9028fd422c5764666927801ad277ac3543d9324fcbf11 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 524723ce14507e0db540fd8e704346a1254b2179bb113bf5badd0d0c18af7c52 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 12fa8215f27261f4a6c0ad2a3be90c0fafc348649a3f984ab95ed5cf40649c6b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3453d9d5bb1b23b18fa7ebdc154acc9d2a80e7ef664ec1407daedc3186f7c7cf committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 87c58841562dfa46cf097f95b120dee2b5f1ab220cf5e62ee052d1b67050686d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 10f79885064361d3243ce20479bb75337001cc6b667ce92326578439e2e39f55 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime cf629e2e4eb9204c7fc7c19a9fb345fd17e1f1595fd893324dd1d5466c3e04bf committed on 2014-08: Suspect charged
+Outcome of crime f9c8835f5e080176fe66f30f9318ca5e97f281edc8874c33c8c55b96efb15124 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2100f0b535127036d4b4adf7a17820a8f5f5a914bb1cca5a1842887fbb4349d8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3b42729e2048de96c661cd34b9fc3890fbd9daee5bdd4e049bb83581ff265e8b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1698abf71aee3a62502caf4975b9461944a2f932bf448d9105f863308b76f8ed committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 0378a0aa74d3a89f0df11ce2c73cb5a33d52f8e58edff32c91adb837ff610a67 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime aee81ef7a9ee5d8a82f3686790430ae74d163823fe87dcab157c0e274d2b5a23 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bc7f0da95a8c57c4f90322bf2d03d99b26f23eb5cb22d0f6808a9fed89b1eba6 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 00722b4a0b8654d10967aa1a413a4310ccd2be0f090fd9b680389dbd73ed8550 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bc87b39153000dbaf42b367b549439bd71d114f60b71c2e0b42f5bd0dee9f634 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime eb07cec1cd425e989d246a6cd581ee782003492f3e02fdc518b1c95125d3be50 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fa3ad5a1141ac376bf7d09b18af390e0ed3ab7ef0baf67565a332e0f4e65fda5 committed on 2014-08: Suspect charged
+Outcome of crime 03f32dfc8ea278977cc08c0db79fcda651f66d4c7e066c118ba53057a0d433ec committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 51efa584cab0d5643221563fccf9937b8d4dc6a35d5d3ec8e952a8355cab05d0 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 73b1696e5aed48b6182ca0317dca01ae1e4d090e1b3ca3375b014641d7ca48ae committed on 2014-08: Offender given penalty notice
+Outcome of crime dc4a4a6a369c59c2fffac8711c3ea191589e7552c2cc5e9a1b7064556d526b51 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2cb065944e5ff759035c8fd25013e4260213e0c85d7dac7f875594e43d3f5d80 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime da8f4e34a5fb56c5ae6565e100f246508a011cccb0593f7f4a7d48af0263eff8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 84e294f6dca628db579cf7e0866f06530569f8d592024ac820d7b80948795f81 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 92221577eb3a282fb292698649beaa618a9e4038c3f174fce8660df350edf1d9 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1785636ac7deff07e3bc97a4752915039c25cbc1d839268fa22941c39042f60f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime b760a90159e0a6b74cd988f55cad1394d5bb2c4a872f73dfb2d2dfe173f80f16 committed on 2014-08: Local resolution
+Outcome of crime 33afa3766fa91b4acd0d7db477d77e6d89181be71af7fcb63fb877ee7d19e0a5 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5c4ab62be8514b32befebd3033445477af469c98d1e78b120552f0d61ab7dbd0 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3e3a38d8c31e22484f7e35eb745fc2123b9c6376aaee8b4c5e7679197dbfd981 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8122dfc89b024c03e97897ac6696d0dd27de4d6b726d9bbeac187b5e205d8240 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 53de28c38c27d8ad74e2eac954c5e0b76abd44e3bbc75d4562686b6149e6a3bf committed on 2014-08: Unable to prosecute suspect
+Outcome of crime b537d7f2a47213a75ba7e73c8d4b28b1736e3543a9fa567138bcba407ee79340 committed on 2014-08: Suspect charged
+Outcome of crime a56fb816d569bbded5cb82d0588cf6131484348a5f7d906fecfad0084722a2ac committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 74751be3638e2ac1153b4539212a3f47d543f8a76a5f34b70c1035e67a1da717 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 18056f2608da7760b406132ab19f6924431bd38dc3f49eb866d8ae260f90f16b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4c91671ec15df80b110db4d1f78fc7876c9e8322a72c3e7605cafa7a7a5d312c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 13cc2eacbe694a60f12eb313c9fd03ca7ed98074338600494eea784b3a5319d2 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime aefde699dafc2762ee894bcfa8e74f04ed79a911b61b780e29f97d14a42c2935 committed on 2014-08: Suspect charged
+Outcome of crime 3f86a8b658685b33f65788fb2a0b06fc36c3d063941e6632003dda88a901f389 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1dc35c8723cb10cedbebf7fccfe9f4665093b31a9fd575026ccd73686b8e50b5 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1b1092e0436e4b8e4d8fe91db321f78d80684e7c048eb126f37e3c09f87e4f52 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1ee756acf7d8dc8d757bda6bb5edd9251a28b9b06dc7a017fe2e3a2e83906851 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 3d4a589fc61058b94f45c6aae5c5480008a188b28b5eb04a963115793c0855aa committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 77738be923f5d220c3055302b9b525912c8d610dffd46f22d9c9d496f01ab78d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime afb513653b41311d24c4030b91122c7a373ada4d305e5e4b568003ea30cc1e2c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7d66c3633ff149aff891a975aef9bf561d39dffae9b92754e4e2c97c01f098ee committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 10c4bb495b2d9da2ee6970dcebebc04d39eb20d0308c88ef4960737dbc776582 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 00638a7d7b4341485ede652b22f39607bad40c42cbac209c58d83c2aee93abc1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 19ae4227beb6d0e398ad2cc37b38125cb9929ecddcf041c260eb00b0e3d10661 committed on 2014-08: Offender given a caution
+Outcome of crime d92e27e46d8878eb27e74973ecbe3771e31f57c365959a4d0ff873dbb68f4794 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c7f31eeb25a9e48c1d537271042976c39f645e544caeb433aadb686dc73c5cf3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 203b02674542ec7b42bdc66fe35a8a13b9a61105a0f336ef5612485a6ff0cf79 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ca8c4f8cc0d353933fb7c0192c748cdf7bd62fdb9202d42f356d7e6761e19cac committed on 2014-08: Suspect charged
+Outcome of crime b00d98d3edf175b0c03c600fe937f15ac02d68aa5bc201d5a1cf5d32beedf00a committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 78f50a1dce237c686ef9b56651c5ef0dc076cadc516c92e15bcfb370ae9f7d0d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6107b4436d11c7dbf3a94b89c566d0ed31df164a3d1998f60bdb27796ce2686e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8e9113828a8174fb4a56c16da87a337f1db6db9250002796f7c116613e3b3174 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c7feec588913d0ea0c684a64f55d1a8faedd21252944c8193e14ad0fa596e685 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 7939ebaea724ee897924192489b458c51c478912657132c0639621ae304e53fa committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 27871b21001d5b63a2cf882853885df8e979573862402385e30534f34759008e committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bbdd9f87071705d2225af7010ffc981ec4fd25a482dc90fd0f02bf44c4c72cdd committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 58e112975fdcf2c1245cff998d64e1aea27bba256f2b8f1658d662a9e34d1286 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 9e7b10934f96b72a77ca552a8a08b9ab50d04658e11d9c37a37d2f1f592650af committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime dea0717223ecfeacdee890a318d5442347ad5de50ad214aaa40b3243536e1744 committed on 2014-08: Suspect charged
+Outcome of crime 052d7588ea56a38704721d8280cecd051f0795eb5ef40fc2fdf230ca323817a8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 9ecb43ba2971a0469efe02ccca5a98af3cc00aea46001068a52bbec81122f1eb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime bd54d30711c7272e4d9b23eab025e7788d3f4f9cf8713c3bba29f43cb2acbcb4 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fa385041d2474149a948d8125e7eed6c8b679e836efd833224112491bfd56f38 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime 98cd0f50d7f0ca8baff648554206c325d56d5e339b91075e03284de58f50d346 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 89e739185075b3027f785f24234a67477c8659f7216ce7695b0a5d16c14f666a committed on 2014-08: Suspect charged
+Outcome of crime d4b5c08e77ee05596ed06b132f9f8559a05d1dda744c63ac39f4a94229f5311c committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7cbc6f4652e4c660138aea37eac2bd9f3069d2ae582d012f49ebab5beee6ea11 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime b9d7a2306b572c1dbd01d539236d78976f1a0fda8ef2ebddb4f31529656b5544 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 381dcd91606b029e1d7987911c1953c0a295aa0e48f86bebfa73c849c23ccf97 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 522a4ee1476e4638dfb374a91a04c4c2ad6de559415f96968f436e7c30d3b355 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 57632c0bd76c03f594857b4b06bd66232e6419a29612e6719226a7ee6e419bf5 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 1e74ce67b6074739c236e92d2f29bc9ac97f3a942e492757ea3dc93adf45b580 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5f8a0e3ad97793f65cb7ddda79b8adbf745823770d1079052e040c1fe85acea8 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 7127f4cc927706ece6accd60a6686e5d9c0bdacd12b433d7a0f22bba52118542 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 494878bdebbd2209fff7b0fa51b9bcf71158bfe870367b023d97e4f7d1e7e53b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6bc1d69a9a9b2a1df63268edc84affa8630947e6e5bae1db71d8a038d203f751 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime dbfba25f95289d5361395f619145f26d7d24915050377c7f891c7b919a0940bc committed on 2014-08: Suspect charged
+Outcome of crime 80d938c23536e8debddf9e78caeec61907d87f40897863c7ba403a51dfb48c23 committed on 2014-08: Local resolution
+Outcome of crime 71d17b3f9b7c8eaa1f9d7f43e7ba96a0f454409348fc58974ae4806c3adfa6a4 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime fbc6418d3794e6522c560f14cffc37049c9fd5636d8518336a63164800622273 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 75b020eaa5d55f52c8b975ac22562b7cb4293bd37bea8ddfe23737b099e2eb6b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 8d541687ed512d4ac55719c5acfb792235fb27f0d228b8e55bd6a38700caca45 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6f0a6364326eca575b1f3b94fabab62eac5f1c88ac8527616f4d74fe6ace4f8f committed on 2014-08: Suspect charged
+Outcome of crime cec8867bca84f5a6fce2ccb202f441f52cf274982f2f5861514cec688945e5ee committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 22e7d1dca89b591e576084eb5cbb0a01d733acca48dab00a11aec18716ab0935 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime fe316c5a43aaef2eb50196681d46af84ac7956d83026ab2a16e1be1e103f0115 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 9af224ec054dd3941a4d7ff7c2ff2009f55ec31682f80a831c350d0152e02f59 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2153c391c387195faf3903ac29acb2fe51e6a4c1e803bc38ce9b58cf6cbffd2d committed on 2014-08: Suspect charged
+Outcome of crime 6ee09fe0d4670d4c68078c7880fa38bd8d3607ced11430a9aeb90276ec46adfc committed on 2014-08: Offender given a caution
+Outcome of crime 3bed773b8a8b0f27cad5819d511eac5b03399f14ee099f5394b90647addcef42 committed on 2014-08: Offender given a caution
+Outcome of crime 91b49252f9d6c73f338702981749d9c454c649f288fc95cad310469e3a97be87 committed on 2014-08: Offender given a caution
+Outcome of crime b98d19774c545ebccd2166daadd1503fef9c3e1a6d7156863155d60ee1678646 committed on 2014-08: Offender given penalty notice
+Outcome of crime 472edafd2ec5d79f68cbffd390a82c4fad7445ea20c724e7694bcbb0ee567f7d committed on 2014-08: Suspect charged
+Outcome of crime 3eea77ca29a0b09738f6f40fb1a7e01f62abdb6ba082f216d51cff2c9b9af5c3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime a42754526e035c5ee051515982622a56d91d6900fedb943f63c16f0ed141804b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 2a589a3b4b7485ca79ffd0c58179e8a8d34f215678eba66a2cc343c8820da703 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime d54e7343d913eb626794b72c33b5f7d035b06e6d518fbd4014999d12c3977157 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 840d4c5e0587debd729bf4d97727fad623316a73dbf1af17a42390e9bea16c62 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime fa1653da42b1c65d298d1ce4c080e996948e3115c918da112dc239cb25ee3a71 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime c73165b052c8bca687b61f0bc014d4ecde41dc90a225f7b24efd08b61bc9bc87 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 763a9de39f6f0c71ccf779dadda21300c8d4dc0ba59319605936f981a168999f committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 6ef1f882a9e971e6193b4e2c4343ff01256de89d34148d748a2462d81dd1e7f3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4c402ffa526ba84ba873824c5a756ddb20c41134ec7d14ad097ad91edd2d5f77 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 003e64f1e329a91ca0f0ff34eaec6fe2dd6ff22d5c92ac991fce82647a327dd1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime d37709a832130d3cfe650daa327b700968b3d1b362062259d0967809b8814452 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime d205d7d5580fcc5c16bbbd51654d43ed352e41621ef40ea663c514746aa5e05d committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 71ee9969c3732473bce3e55e5a072a13c5aaa70af87d58ec70588847506489f1 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5c7cb747453e1c33fb8ec45eebee862b2250b6238508b500dc441e8570309b78 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 03ab0e9987b0ae4d3ac67714000d8011a618e33b7e2be789fd5796f1214f31c6 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 0b3ccf790e6f2aa7cf15c03f37e22442f2eb93ec36bb359cf6d3fc925105a3b3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 95b54083ab2a5fc12ebb13f7c293b6ae758062282b1147ac67995dd4b57bb9dd committed on 2014-08: Suspect charged
+Outcome of crime 66416585d9801957e5dfa88b0423066ce2c371a620c89f7feeeac3eab277c192 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 0a8a76d3dac1dfb376632338b5756fcaa91a2b71bfa9729b497a0baedf33d5d2 committed on 2014-08: Offender given a drugs possession warning
+Outcome of crime f139c989dab661040b7b814bee121464dd0ad547d33c134c7eaaceccddc3d3fd committed on 2014-08: Suspect charged
+Outcome of crime 92dda3b767dfca3eb443c9b01c39675af7f30a095a56ba6b8f1fb918c8ce0933 committed on 2014-08: Offender given a caution
+Outcome of crime febbf6ae42669762c6ec2a4f3b4dfa7580c65ddca936fd5fe4ed3f7a7dc92883 committed on 2014-08: Offender given penalty notice
+Outcome of crime 69612f64e92749c30404b8d0197322ee2987bea5780915715609ac78ff016ddb committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 4d7ecc879eb5304ee04d463878b99713be7e051d78723de2adf6845615da7bac committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ac9d583d1ff2b9a8bf748e8692d6338e8fdcd4b149fe2b0fa055a73f1b57c666 committed on 2014-08: Suspect charged
+Outcome of crime d5e9b80a2671017b2570beccd62efe6d82ae522ca9beac0003d03c51a82d9eb3 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime ade7582739d1376f40b8feeef40de918292bc0110c2a08ed7593599508fc1304 committed on 2014-08: Unable to prosecute suspect
+Outcome of crime 878263e39e23133a7827cc5541870ee7f9620e351c9d06b727e63490d2b26190 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 5a47a0593491a10ed21d263d5cceebef2021e935bbe09764d0ba493d6f6bf64b committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 08eee636dae52c1ee773f200a4afc3dc38c36c5df4c318415c9d7c48a0ec4491 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime e6671418c7324407314b8b56c26ae7bbfa2119e9499467cecbe2a9a613887565 committed on 2014-08: Investigation complete; no suspect identified
+Outcome of crime 0022bc430cf16ca414f4ba5c45ab3745d229a2cc4b4c81f055a95496e458253d committed on 2014-08: Formal action is not in the public interest
+Outcome of crime 5c689c918827cd8798a1c6429de4299c0eaea99bf7b895209dfe8cb81dcf826d committed on 2014-08: Investigation complete; no suspect identified
