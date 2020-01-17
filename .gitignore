@@ -4,3 +4,6 @@
 *.iml
 .DS_Store
 *.log
+
+metastore_db
+spark-warehouse
