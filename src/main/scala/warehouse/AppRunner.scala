@@ -6,6 +6,7 @@ object AppRunner extends App {
   val spark = SparkSession.builder
     .master("local[*]")
     .appName("Data warehouse")
+    .enableHiveSupport()
     .getOrCreate()
 
   spark.sparkContext.setLogLevel("ERROR") //żeby było mniej logów
@@ -21,5 +22,17 @@ object AppRunner extends App {
 
   airQuality.printSchema()
 
-  println(airQuality.count())
+  val airQualityTable = "air_quality"
+  val tempAirQualityTable = s"temp_$airQualityTable"
+
+  //tworzenie tabeli hive'owej
+  airQuality.createOrReplaceTempView(tempAirQualityTable)
+  spark.sql(s"drop table if exists $airQualityTable")
+  spark.sql(s"create table $airQualityTable as select * from $tempAirQualityTable")
+  spark.sql(s"SELECT COUNT (*) FROM $airQualityTable").collect().toList.foreach(println)
+
+  val schemaCreator = new SchemaCreator(spark)
+  schemaCreator.createTimeTable()
+  spark.sql("""INSERT INTO d_time VALUES(123, 123)""")
+  spark.sql(s"SELECT (*) FROM d_time").collect().toList.foreach(println)
 }
