@@ -23,7 +23,7 @@ object AppRunner extends App {
   schemaCreator.createAll()
 
   //etl dla kazdej tabli
-  val etl = new ETL()
+  val etl = new ETL(path)
   etl.all(spark)
 
   //przyłady analizy z wykorzystaniem sql

@@ -4,10 +4,7 @@ import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 import warehouse.model.{AirPollutionType, CrimeType, Location, Time}
 
-class ETL {
-
-  val path = "src/main/scala/warehouse/data/"
-
+class ETL(val path: String) {
   def all(spark: SparkSession): Unit = {
     Table.all().foreach {
       case t@TIME_TABLE => D_TIME(spark, t.name)
