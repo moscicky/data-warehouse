@@ -2,7 +2,7 @@ package warehouse
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
-import warehouse.model.{AirPollutionType, CrimeType, Location, Time}
+import warehouse.model.{AirPollutionType, CrimeType, Location, OutcomeType, SourceType, Time}
 
 class ETL(val path: String, val small: Boolean = true) {
   private val airQualityFile = if (small) AirQualityFile.small() else AirQualityFile.name
@@ -21,6 +21,8 @@ class ETL(val path: String, val small: Boolean = true) {
       case t@LOCATION_TABLE => D_LOCATION(spark, t.name)
       case t@CRIME_TYPE_TABLE => D_CRIME_TYPE(spark, t.name)
       case t@AIR_POLLUTION_TYPE_TABLE => D_AIR_POLLUTION_TYPE(spark, t.name)
+      case t@CRIME_OUTCOME_TABLE => D_OUTCOME_TYPE(spark, t.name)
+      case t@SOURCE_TABLE => D_SOURCE_TYPE(spark, t.name)
     }
   }
 
@@ -42,7 +44,8 @@ class ETL(val path: String, val small: Boolean = true) {
       .withColumnRenamed("col", "pollutionType")
 
     parsed.join(air_quality_norms_DS,"pollutionType")
-      .withColumnRenamed("pos", "pollutionType", "norm")
+      .withColumnRenamed("pos", "id")
+      .select("id", "pollutionType", "norm")
       .as[AirPollutionType]
       .write.insertInto(tableName)
 
@@ -125,12 +128,12 @@ class ETL(val path: String, val small: Boolean = true) {
 
     val metropolitan_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
       option("header", false).option("inferSchema", true).
-      csv(s"$path/MetropolitanPoliceServiceOutcomes1000.txt").
+      csv(s"$path/$metropolitanPoliceOutcomesFile").
       cache();
 
     val london_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
       option("header", false).option("inferSchema", true).
-      csv(s"$path/CityofLondonPoliceOutcomes1000.txt").
+      csv(s"$path/$londonPoliceOutcomesFile").
       cache();
 
 
@@ -146,7 +149,8 @@ class ETL(val path: String, val small: Boolean = true) {
 
     step1.withColumn("outcome", trim(step1("col2")))
       .select("id","outcome")
-      .collect().foreach(x => println(x))
+      .as[OutcomeType]
+      .write.insertInto(tableName)
   }
 
   def D_SOURCE_TYPE(spark: SparkSession, tableName: String): Unit = {
@@ -157,6 +161,6 @@ class ETL(val path: String, val small: Boolean = true) {
       csv(s"$path/Source.csv").
       cache();
 
-    source_DS.collect().foreach(x => println(x))
+    source_DS.as[SourceType].write.insertInto(tableName)
   }
 }

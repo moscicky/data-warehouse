@@ -5,7 +5,7 @@
 ### Tworzenie jara
 1. Stwórz obiekt ETLa z metodą main w pakiecie `executables`. Wykorzystaj klasę ETL. 
 Ważne żeby dodać `enableHiveSupport()` i parametryzować ścieżki do plików jak w przykładzie.
-![1](readme-assets/tut1.png)
+![1](readme-assets/tut7.png)
 1. Wybierz `File > Project Structure > Artifacts`
 Kliknij `+` w lewym górnym rogu. Wybierz `JAR` a następnie 
 `empty`
@@ -18,7 +18,7 @@ i kliknij `Build`.
 1. Jar zostanie umieszczony w folderze `out/artifcats`
 
 ### Odpalanie na klastrze
-1. wgraj pliki wejściowe (normalne i wersje 1000) na swój bucket do folderu `warehouse-input` na google storage
+1. wgraj pliki wejściowe (normalne i wersje 1000 oraz Norm i Source) na swój bucket do folderu `warehouse-input` na google storage
 1. z shella VMki na klastrze przekopiuj pliki z bucketa na klaster 
         
         gsutil cp -r gs://<bucket-name>/warehouse-input .

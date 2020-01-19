@@ -14,6 +14,8 @@ class SchemaCreator(spark: SparkSession) {
       case t@LOCATION_TABLE => createLocationTable(t.name)
       case t@CRIME_TYPE_TABLE => createCrimeTypeTable(t.name)
       case t@AIR_POLLUTION_TYPE_TABLE => createAirPollutionTypeTable(t.name)
+      case t@SOURCE_TABLE => createSourceTypeTable(t.name)
+      case t@CRIME_OUTCOME_TABLE => createCrimeOutcomeTable(t.name)
     }
   }
 
@@ -46,6 +48,20 @@ class SchemaCreator(spark: SparkSession) {
       s"""CREATE TABLE IF NOT EXISTS $tableName(
          |id LONG,
          |pollutionType STRING,
-         |norm Long) USING hive""".stripMargin)
+         |norm INT) USING hive""".stripMargin)
+  }
+
+  def createCrimeOutcomeTable(tableName: String): DataFrame = {
+    spark.sql(
+      s"""CREATE TABLE IF NOT EXISTS $tableName(
+         |id LONG,
+         |outcome STRING) USING hive""".stripMargin)
+  }
+
+  def createSourceTypeTable(tableName: String): DataFrame = {
+    spark.sql(
+      s"""CREATE TABLE IF NOT EXISTS $tableName(
+         |id LONG,
+         |source STRING) USING hive""".stripMargin)
   }
 }

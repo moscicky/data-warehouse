@@ -2,7 +2,7 @@ package warehouse
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
-import warehouse.model.{AirPollutionType, CrimeType, Location, Time}
+import warehouse.model.{AirPollutionType, CrimeType, Location, OutcomeType, SourceType, Time}
 
 object AppRunner extends App {
   val spark = SparkSession.builder
@@ -50,6 +50,16 @@ object AppRunner extends App {
   spark.read
     .table(AIR_POLLUTION_TYPE_TABLE.name)
     .as[AirPollutionType]
+    .show(5)
+
+  spark.read
+    .table(CRIME_OUTCOME_TABLE.name)
+    .as[OutcomeType]
+    .show(5)
+
+  spark.read
+    .table(SOURCE_TABLE.name)
+    .as[SourceType]
     .show(5)
 
 }
