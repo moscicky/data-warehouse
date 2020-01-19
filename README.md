@@ -38,6 +38,7 @@ i kliknij `Build`.
         spark-shell 
         :paste
 1. wklej zawartość plików `Table.scala` oraz `SchemaCreator.scala` bez pierwszej linijki
+1. klinij enter i `crtl + d`, obiekty powinny się utworzyć
 1. stwórz schemat tabel 
 
         val schema = new SchemaCreator(spark)
