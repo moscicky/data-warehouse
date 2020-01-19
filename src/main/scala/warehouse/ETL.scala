@@ -4,7 +4,17 @@ import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 import warehouse.model.{AirPollutionType, CrimeType, Location, Time}
 
-class ETL(val path: String) {
+class ETL(val path: String, val small: Boolean = true) {
+  private val airQualityFile = if (small) AirQualityFile.small() else AirQualityFile.name
+  private val metropolitanPoliceOutcomesFile =
+    if (small) MetropolitanPoliceOutcomesFile.small() else MetropolitanPoliceOutcomesFile.name
+  private val metropolitanPoliceRecordsFile =
+    if (small) MetropolitanPoliceRecordsFile.small() else MetropolitanPoliceRecordsFile.name
+  private val londonPoliceOutcomesFile =
+    if (small) LondonPoliceOutcomesFile.small() else LondonPoliceOutcomesFile.name
+  private val londonPoliceRecordsFile =
+    if (small) LondonPoliceRecordsFile.small() else LondonPoliceRecordsFile.name
+
   def all(spark: SparkSession): Unit = {
     Table.all().foreach {
       case t@TIME_TABLE => D_TIME(spark, t.name)
@@ -19,7 +29,7 @@ class ETL(val path: String) {
 
     val air_quality_headers_DS = spark.read.format("org.apache.spark.csv").
       option("header", false).option("inferSchema", true).
-      csv(s"$path/AirQuality1000.csv").
+      csv(s"$path/$airQualityFile").
       cache();
 
     air_quality_headers_DS.limit(1)
@@ -36,17 +46,17 @@ class ETL(val path: String) {
 
     val metropolitan_crime_records_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/MetropolitanPoliceServiceRecords1000.csv").
+      csv(s"$path/$metropolitanPoliceRecordsFile").
       cache();
 
     val london_crime_records_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/CityofLondonPoliceRecords1000.csv").
+      csv(s"$path/$londonPoliceRecordsFile").
       cache();
 
     val air_quality_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/AirQuality1000.csv").
+      csv(s"$path/$airQualityFile").
       cache();
 
     london_crime_records_DS.union(metropolitan_crime_records_DS)
@@ -62,12 +72,12 @@ class ETL(val path: String) {
 
     val metropolitan_crime_records_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/MetropolitanPoliceServiceRecords1000.csv").
+      csv(s"$path/$metropolitanPoliceRecordsFile").
       cache();
 
     val london_crime_records_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/CityofLondonPoliceRecords1000.csv").
+      csv(s"$path/$londonPoliceRecordsFile").
       cache();
 
     london_crime_records_DS.union(metropolitan_crime_records_DS)
@@ -86,12 +96,12 @@ class ETL(val path: String) {
 
     val metropolitan_crime_records_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/MetropolitanPoliceServiceRecords1000.csv").
+      csv(s"$path/$metropolitanPoliceRecordsFile").
       cache();
 
     val london_crime_records_DS = spark.read.format("org.apache.spark.csv").
       option("header", true).option("inferSchema", true).
-      csv(s"$path/CityofLondonPoliceRecords1000.csv").
+      csv(s"$path/$londonPoliceRecordsFile").
       cache();
 
 
@@ -102,5 +112,4 @@ class ETL(val path: String) {
       .as[CrimeType]
       .write.insertInto(tableName)
   }
-
 }
