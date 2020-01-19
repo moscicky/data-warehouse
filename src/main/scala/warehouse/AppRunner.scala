@@ -24,6 +24,7 @@ object AppRunner extends App {
 
   //etl dla kazdej tabli
   val etl = new ETL()
+
   etl.all(spark)
 
   //przyłady analizy z wykorzystaniem sql

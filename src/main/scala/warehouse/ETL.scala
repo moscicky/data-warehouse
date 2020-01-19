@@ -1,6 +1,7 @@
 package warehouse
 
-import org.apache.spark.sql.SparkSession
+import org.apache.spark.SparkContext
+import org.apache.spark.sql.{Row, SparkSession}
 import org.apache.spark.sql.functions._
 import warehouse.model.{CrimeType, Location, Time}
 
@@ -132,9 +133,19 @@ class ETL {
       .dropDuplicates("col2")
       .withColumn("id", monotonically_increasing_id)
 
-    step1.withColumn("col2", trim(step1("col2")))
-      .select("id","col2")
+    step1.withColumn("outcome", trim(step1("col2")))
+      .select("id","outcome")
       .collect().foreach(x => println(x))
   }
 
+  def D_SOURCE_TYPE(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
+
+    val source_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/Source.csv").
+      cache();
+
+    source_DS.collect().foreach(x => println(x))
+  }
 }
