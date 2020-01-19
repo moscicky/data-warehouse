@@ -2,12 +2,9 @@ package warehouse
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
-import warehouse.model.{CrimeType, Location, Time}
+import warehouse.model.{AirPollutionType, CrimeType, Location, Time}
 
-class ETL {
-
-  val path = "src/main/scala/warehouse/data/"
-
+class ETL(val path: String) {
   def all(spark: SparkSession): Unit = {
     Table.all().foreach {
       case t@TIME_TABLE => D_TIME(spark, t.name)
@@ -18,6 +15,7 @@ class ETL {
   }
 
   def D_AIR_POLLUTION_TYPE(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
 
     val air_quality_headers_DS = spark.read.format("org.apache.spark.csv").
       option("header", false).option("inferSchema", true).
@@ -32,7 +30,11 @@ class ETL {
     val parsed = air_quality_headers_DS.limit(1)
       .select(posexplode(array("_c2", "_c3", "_c4", "_c5", "_c6", "_c7", "_c8")))
       .withColumnRenamed("col", "pollutionType")
-    parsed.join(air_quality_norms_DS,"pollutionType").write.insertInto(tableName)
+    
+    parsed.join(air_quality_norms_DS,"pollutionType")
+      .withColumnRenamed("pos", "pollutionType", "norm")
+      .as[AirPollutionType]
+      .write.insertInto(tableName)
 
   }
 
