@@ -32,10 +32,17 @@ class ETL(val path: String, val small: Boolean = true) {
       csv(s"$path/$airQualityFile").
       cache();
 
-    air_quality_headers_DS.limit(1)
+    val air_quality_norms_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/Norm.csv").
+      cache();
+
+    val parsed = air_quality_headers_DS.limit(1)
       .select(posexplode(array("_c2", "_c3", "_c4", "_c5", "_c6", "_c7", "_c8")))
       .withColumnRenamed("col", "pollutionType")
-      .withColumnRenamed("pos", "id")
+
+    parsed.join(air_quality_norms_DS,"pollutionType")
+      .withColumnRenamed("pos", "pollutionType", "norm")
       .as[AirPollutionType]
       .write.insertInto(tableName)
 
@@ -111,5 +118,45 @@ class ETL(val path: String, val small: Boolean = true) {
       .withColumnRenamed("Crime type", "crimeType")
       .as[CrimeType]
       .write.insertInto(tableName)
+  }
+
+  def D_OUTCOME_TYPE(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
+
+    val metropolitan_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
+      option("header", false).option("inferSchema", true).
+      csv(s"$path/MetropolitanPoliceServiceOutcomes1000.txt").
+      cache();
+
+    val london_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
+      option("header", false).option("inferSchema", true).
+      csv(s"$path/CityofLondonPoliceOutcomes1000.txt").
+      cache();
+
+
+    val step1 = london_crime_outcomes_DS
+      .union(metropolitan_crime_outcomes_DS).
+      withColumn("tmp", split($"_c0", "\\:")).select(
+      $"tmp".getItem(0).as("col1"),
+      $"tmp".getItem(1).as("col2")
+    )
+      .select( "col2")
+      .dropDuplicates("col2")
+      .withColumn("id", monotonically_increasing_id)
+
+    step1.withColumn("outcome", trim(step1("col2")))
+      .select("id","outcome")
+      .collect().foreach(x => println(x))
+  }
+
+  def D_SOURCE_TYPE(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
+
+    val source_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/Source.csv").
+      cache();
+
+    source_DS.collect().foreach(x => println(x))
   }
 }

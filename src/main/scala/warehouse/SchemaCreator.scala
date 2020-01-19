@@ -41,11 +41,11 @@ class SchemaCreator(spark: SparkSession) {
          |crimeType STRING) USING hive""".stripMargin)
   }
 
-  //TODO: add norm
   def createAirPollutionTypeTable(tableName: String): DataFrame = {
     spark.sql(
       s"""CREATE TABLE IF NOT EXISTS $tableName(
          |id LONG,
-         |pollutionType STRING) USING hive""".stripMargin)
+         |pollutionType STRING,
+         |norm Long) USING hive""".stripMargin)
   }
 }
