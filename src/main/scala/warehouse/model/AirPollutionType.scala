@@ -1,3 +1,3 @@
 package warehouse.model
 
-case class AirPollutionType(id: Long, pollutionType: String)
+case class AirPollutionType(id: Long, pollutionType: String, norm: String)

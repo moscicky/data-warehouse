@@ -18,25 +18,21 @@ class ETL {
   }
 
   def D_AIR_POLLUTION_TYPE(spark: SparkSession, tableName: String): Unit = {
-    val path = "src/main/scala/warehouse/data/"
-
-    val spark = SparkSession.builder
-      .master("local[*]")
-      .appName("Data warehouse")
-      .getOrCreate()
-
-    spark.sparkContext.setLogLevel("ERROR") //żeby było mniej logów
-
 
     val air_quality_headers_DS = spark.read.format("org.apache.spark.csv").
       option("header", false).option("inferSchema", true).
       csv(s"$path/AirQuality1000.csv").
       cache();
 
-    air_quality_headers_DS.limit(1)
+    val air_quality_norms_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/Norm.csv").
+      cache();
+
+    val parsed = air_quality_headers_DS.limit(1)
       .select(posexplode(array("_c2", "_c3", "_c4", "_c5", "_c6", "_c7", "_c8")))
-      .withColumnRenamed("_c2", "pollutionType")
-      .write.insertInto(tableName)
+      .withColumnRenamed("col", "pollutionType")
+    parsed.join(air_quality_norms_DS,"pollutionType").write.insertInto(tableName)
 
   }
 
@@ -110,6 +106,35 @@ class ETL {
       .withColumnRenamed("Crime type", "crimeType")
       .as[CrimeType]
       .write.insertInto(tableName)
+  }
+
+  def D_OUTCOME_TYPE(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
+
+    val metropolitan_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
+      option("header", false).option("inferSchema", true).
+      csv(s"$path/MetropolitanPoliceServiceOutcomes1000.txt").
+      cache();
+
+    val london_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
+      option("header", false).option("inferSchema", true).
+      csv(s"$path/CityofLondonPoliceOutcomes1000.txt").
+      cache();
+
+
+    val step1 = london_crime_outcomes_DS
+      .union(metropolitan_crime_outcomes_DS).
+      withColumn("tmp", split($"_c0", "\\:")).select(
+      $"tmp".getItem(0).as("col1"),
+      $"tmp".getItem(1).as("col2")
+    )
+      .select( "col2")
+      .dropDuplicates("col2")
+      .withColumn("id", monotonically_increasing_id)
+
+    step1.withColumn("col2", trim(step1("col2")))
+      .select("id","col2")
+      .collect().foreach(x => println(x))
   }
 
 }
