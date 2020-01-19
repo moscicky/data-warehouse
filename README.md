@@ -39,6 +39,7 @@ i kliknij `Build`.
         :paste
 1. wklej zawartość plików `Table.scala` oraz `SchemaCreator.scala` bez pierwszej linijki
 1. stwórz schemat tabel 
+
         val schema = new SchemaCreator(spark)
         schema.createAll()
 1. wyjdź ze spark shella `crl + d`
