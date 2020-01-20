@@ -34,3 +34,7 @@ case object CRIME_OUTCOME_TABLE extends Table {
 case object SOURCE_TABLE extends Table {
   val name = "d_source"
 }
+
+case object AIR_QUALITY_TABLE extends Table {
+  val name = "f_air_quality"
+}

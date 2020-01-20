@@ -16,6 +16,7 @@ class SchemaCreator(spark: SparkSession) {
       case t@AIR_POLLUTION_TYPE_TABLE => createAirPollutionTypeTable(t.name)
       case t@SOURCE_TABLE => createSourceTypeTable(t.name)
       case t@CRIME_OUTCOME_TABLE => createCrimeOutcomeTable(t.name)
+      case t@AIR_QUALITY_TABLE => createAirQualityTable(t.name)
     }
   }
 
@@ -63,5 +64,15 @@ class SchemaCreator(spark: SparkSession) {
       s"""CREATE TABLE IF NOT EXISTS $tableName(
          |id LONG,
          |source STRING) USING hive""".stripMargin)
+  }
+
+  def createAirQualityTable(tableName: String): DataFrame = {
+    spark.sql(
+      s"""CREATE TABLE IF NOT EXISTS $tableName(
+         |timeId LONG,
+         |typeId LONG,
+         |maxPollution INT,
+         |avgPollution INT,
+         |dayCount INT) USING hive""".stripMargin)
   }
 }

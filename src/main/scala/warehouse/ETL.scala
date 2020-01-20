@@ -2,7 +2,8 @@ package warehouse
 
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
-import warehouse.model.{AirPollutionType, CrimeType, Location, OutcomeType, SourceType, Time}
+import warehouse.AppRunner.spark
+import warehouse.model.{AirPollutionType, AirQuality, CrimeType, Location, OutcomeType, SourceType, Time}
 
 class ETL(val path: String, val small: Boolean = true) {
   private val airQualityFile = if (small) AirQualityFile.small() else AirQualityFile.name
@@ -163,4 +164,29 @@ class ETL(val path: String, val small: Boolean = true) {
 
     source_DS.as[SourceType].write.insertInto(tableName)
   }
+
+  def F_AIR_QUALITY(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
+
+    val air_quality_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/$airQualityFile").
+      cache();
+
+    val air_quality_norms_DS = spark.read
+      .table(AIR_QUALITY_TABLE.name)
+      .as[AirQuality]
+
+    val step1 = air_quality_DS.groupBy("Month (text)")
+      .agg(avg("London Mean Roadside Nitric Oxide (ug/m3)") as "no",
+        avg("London Mean Roadside Nitrogen Dioxide (ug/m3)") as "nd",
+        avg("London Mean Roadside Oxides of Nitrogen (ug/m3)") as "on",
+        avg("London Mean Roadside Ozone (ug/m3)") as "oz",
+        avg("London Mean Roadside PM10 Particulate (ug/m3)") as "pm10",
+        avg("London Mean Roadside PM2.5 Particulate (ug/m3)") as "pm25",
+        avg("London Mean Roadside Sulphur Dioxide (ug/m3)") as "sd")
+      .select(posexplode($"Month (text)")) //TODO
+
+  }
+
 }
