@@ -242,7 +242,7 @@ class ETL(val path: String, val small: Boolean = true) {
         )
       .withColumn("id", col("left").substr(18, 64))
       .withColumn("date", col("left").substr(96, 7))
-      //.withColumn("outcome", col("outcome").substr(1, 1000))
+      .withColumn("outcome", col("outcome").substr(2, 1000))
       //widziałem, że outcome w tabeli zaczynały się od " ", więc usunąłem pierwszy znak (?)
       .drop("left")
       .select(month(col("date")) as "monthNum", year(col("date")) as "yearNum",
@@ -277,12 +277,9 @@ class ETL(val path: String, val small: Boolean = true) {
       .withColumnRenamed("id", "timeId")
       .join(location_DS, ($"lsoaCode" === $"LSOA code" && $"lsoaName" === $"LSOA name"))
       .withColumnRenamed("id", "locationId")
-      // gdy wykmentuje od:
       .withColumnRenamed("outcome", "crimeOutcome")
       .join(outcome_type_DS, ($"outcome" === $"crimeOutcome"))
       .withColumnRenamed("id", "outcomeId")
-      //do tego miejsca - wszystko jest pooprawnie, wydaje mi się że stringi outcome się nie zgadzają
-      //gdy robie show bez select (wykomentowac wszystko za withColumnRenamed poniżej), widać wtabeli tak jakby outcoome zaczynały się od " " - nie dochodzą do lewej krawędzi tabeli
       .join(crime_type_DS, ($"Crime type" === $"crimeType"))
       .withColumnRenamed("id", "crimeTypeId")
       .select("crimeId", "timeId", "locationId", "crimeTypeId", "sourceId", "outcomeId")
