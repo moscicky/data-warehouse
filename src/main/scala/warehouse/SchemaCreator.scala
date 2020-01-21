@@ -71,8 +71,6 @@ class SchemaCreator(spark: SparkSession) {
       s"""CREATE TABLE IF NOT EXISTS $tableName(
          |timeId LONG,
          |typeId LONG,
-         |maxPollution INT,
-         |avgPollution INT,
-         |dayCount INT) USING hive""".stripMargin)
+         |normExceeded BOOLEAN) USING hive""".stripMargin)
   }
 }

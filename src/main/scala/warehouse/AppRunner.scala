@@ -63,9 +63,14 @@ object AppRunner extends App {
     .show(5)
 
   spark.read
+    .table(TIME_TABLE.name)
+    .as[Time]
+    .show(5)
+
+  spark.read
     .table(AIR_QUALITY_TABLE.name)
     .as[AirQuality]
-    .show(5)
+   .show(5)
 
 }
 

@@ -24,6 +24,7 @@ class ETL(val path: String, val small: Boolean = true) {
       case t@AIR_POLLUTION_TYPE_TABLE => D_AIR_POLLUTION_TYPE(spark, t.name)
       case t@CRIME_OUTCOME_TABLE => D_OUTCOME_TYPE(spark, t.name)
       case t@SOURCE_TABLE => D_SOURCE_TYPE(spark, t.name)
+      case t@AIR_QUALITY_TABLE => F_AIR_QUALITY(spark, t.name)
     }
   }
 
@@ -41,7 +42,7 @@ class ETL(val path: String, val small: Boolean = true) {
       cache();
 
     val parsed = air_quality_headers_DS.limit(1)
-      .select(posexplode(array("_c2", "_c3", "_c4", "_c5", "_c6", "_c7", "_c8")))
+      .select(posexplode(array( "_c3",  "_c5", "_c6"))) //dla uproszczenia wybieram tylko te, które są nam potrzebne tak żeby miały przewidywalne id od 0 do 2
       .withColumnRenamed("col", "pollutionType")
 
     parsed.join(air_quality_norms_DS,"pollutionType")
@@ -174,18 +175,33 @@ class ETL(val path: String, val small: Boolean = true) {
       cache();
 
     val air_quality_norms_DS = spark.read
-      .table(AIR_QUALITY_TABLE.name)
-      .as[AirQuality]
+      .table(AIR_POLLUTION_TYPE_TABLE.name)
+      .as[AirPollutionType]
 
     val step1 = air_quality_DS.groupBy("Month (text)")
-      .agg(avg("London Mean Roadside Nitric Oxide (ug/m3)") as "no",
-        avg("London Mean Roadside Nitrogen Dioxide (ug/m3)") as "nd",
-        avg("London Mean Roadside Oxides of Nitrogen (ug/m3)") as "on",
-        avg("London Mean Roadside Ozone (ug/m3)") as "oz",
-        avg("London Mean Roadside PM10 Particulate (ug/m3)") as "pm10",
-        avg("London Mean Roadside PM2.5 Particulate (ug/m3)") as "pm25",
-        avg("London Mean Roadside Sulphur Dioxide (ug/m3)") as "sd")
-      .select(posexplode($"Month (text)")) //TODO
+      .agg(avg("London Mean Roadside Nitric Oxide (ug/m3)") as "London Mean Roadside Nitric Oxide (ug/m3)",
+        avg("London Mean Roadside Nitrogen Dioxide (ug/m3)") as "London Mean Roadside Nitrogen Dioxide (ug/m3)",
+        avg("London Mean Roadside Ozone (ug/m3)") as "London Mean Roadside Ozone (ug/m3)",
+        avg("London Mean Roadside PM10 Particulate (ug/m3)") as "London Mean Roadside PM10 Particulate (ug/m3)",
+        avg("London Mean Roadside Sulphur Dioxide (ug/m3)") as "London Mean Roadside Sulphur Dioxide (ug/m3)" // gdy biorę kolumnę London Mean Roadside PM2.5 Particulate (ug/m3) wywala mi dziwny błąd :O
+      )
+      .select($"Month (text)", posexplode(array("London Mean Roadside Nitrogen Dioxide (ug/m3)", "London Mean Roadside Ozone (ug/m3)", "London Mean Roadside PM10 Particulate (ug/m3)")))
+      .withColumnRenamed("col", "pollutionValue")
+      .withColumnRenamed("pos", "pollutionId")
+      .join(air_quality_norms_DS, $"pollutionId" === $"id")
+      .withColumn("normExceeded", when($"pollutionValue" > $"norm", true).otherwise(false))
+      .select(month(col("Month (text)")) as "monthNum", year(col("Month (text)")) as "yearNum", col("pollutionId") as "typeId", col("normExceeded"));
+
+    val time_DS = spark.read
+      .table(TIME_TABLE.name)
+      .as[Time]
+
+    val step2 = step1.join(time_DS, ($"month" === $"monthNum" && $"year" === $"yearNum"))
+      .withColumnRenamed("id", "timeId")
+      .select("timeId", "typeId", "normExceeded")
+      .as[AirQuality]
+      .write
+      .insertInto(tableName)
 
   }
 
