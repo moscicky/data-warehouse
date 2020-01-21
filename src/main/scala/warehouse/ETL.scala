@@ -3,7 +3,7 @@ package warehouse
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 import warehouse.AppRunner.spark
-import warehouse.model.{AirPollutionType, AirQuality, CrimeType, Location, OutcomeType, SourceType, Time}
+import warehouse.model.{AirPollutionType, AirQuality, CrimeType, Location, OutcomeType, SourceType, Time, Crime}
 
 class ETL(val path: String, val small: Boolean = true) {
   private val airQualityFile = if (small) AirQualityFile.small() else AirQualityFile.name
@@ -25,6 +25,7 @@ class ETL(val path: String, val small: Boolean = true) {
       case t@CRIME_OUTCOME_TABLE => D_OUTCOME_TYPE(spark, t.name)
       case t@SOURCE_TABLE => D_SOURCE_TYPE(spark, t.name)
       case t@AIR_QUALITY_TABLE => F_AIR_QUALITY(spark, t.name)
+      case t@CRIME_TABLE => F_CRIME(spark, t.name)
     }
   }
 
@@ -200,6 +201,92 @@ class ETL(val path: String, val small: Boolean = true) {
       .withColumnRenamed("id", "timeId")
       .select("timeId", "typeId", "normExceeded")
       .as[AirQuality]
+      .write
+      .insertInto(tableName)
+
+  }
+
+  def F_CRIME(spark: SparkSession, tableName: String): Unit = {
+    import spark.implicits._
+    import org.apache.spark.sql.functions._
+
+    val slice = udf((array : String, from : Int, to : Int) => array.slice(from,to))
+
+    val metropolitan_crime_records_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/$metropolitanPoliceRecordsFile").
+      cache()
+      .withColumn("sourceId", lit(1));
+
+    val london_crime_records_DS = spark.read.format("org.apache.spark.csv").
+      option("header", true).option("inferSchema", true).
+      csv(s"$path/$londonPoliceRecordsFile").
+      cache()
+      .withColumn("sourceId", lit(0));
+
+    val metropolitan_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
+      option("header", false).option("inferSchema", true).
+      csv(s"$path/$metropolitanPoliceOutcomesFile").
+      cache();
+
+    val london_crime_outcomes_DS = spark.read.format("org.apache.spark.csv").
+      option("header", false).option("inferSchema", true).
+      csv(s"$path/$londonPoliceOutcomesFile").
+      cache();
+
+    val crime_outcomes_parsed = metropolitan_crime_outcomes_DS
+        .union(london_crime_outcomes_DS)
+        .withColumn("tmp", split($"_c0", "\\:")).select(
+          $"tmp".getItem(0).as("left"),
+          $"tmp".getItem(1).as("outcome")
+        )
+      .withColumn("id", col("left").substr(18, 64))
+      .withColumn("date", col("left").substr(96, 7))
+      //.withColumn("outcome", col("outcome").substr(1, 1000))
+      //widziałem, że outcome w tabeli zaczynały się od " ", więc usunąłem pierwszy znak (?)
+      .drop("left")
+      .select(month(col("date")) as "monthNum", year(col("date")) as "yearNum",
+        $"id" as "crimeId", $"outcome")
+
+    val records_parsed = metropolitan_crime_records_DS
+      .union(london_crime_records_DS)
+      .filter($"Crime ID".isNotNull)
+
+    val records_joined = crime_outcomes_parsed
+      .join(records_parsed, $"Crime ID" === $"crimeId")
+      .drop("month")
+
+    val time_DS = spark.read
+      .table(TIME_TABLE.name)
+      .as[Time]
+
+    val location_DS = spark.read
+      .table(LOCATION_TABLE.name)
+      .as[Location]
+
+    val crime_type_DS = spark.read
+      .table(CRIME_TYPE_TABLE.name)
+      .as[CrimeType]
+
+    val outcome_type_DS = spark.read
+      .table(CRIME_OUTCOME_TABLE.name)
+      .as[OutcomeType]
+
+    val mega_join = records_joined
+      .join(time_DS, ($"yearNum" === $"year" && $"monthNum" === $"month"))
+      .withColumnRenamed("id", "timeId")
+      .join(location_DS, ($"lsoaCode" === $"LSOA code" && $"lsoaName" === $"LSOA name"))
+      .withColumnRenamed("id", "locationId")
+      // gdy wykmentuje od:
+      .withColumnRenamed("outcome", "crimeOutcome")
+      .join(outcome_type_DS, ($"outcome" === $"crimeOutcome"))
+      .withColumnRenamed("id", "outcomeId")
+      //do tego miejsca - wszystko jest pooprawnie, wydaje mi się że stringi outcome się nie zgadzają
+      //gdy robie show bez select (wykomentowac wszystko za withColumnRenamed poniżej), widać wtabeli tak jakby outcoome zaczynały się od " " - nie dochodzą do lewej krawędzi tabeli
+      .join(crime_type_DS, ($"Crime type" === $"crimeType"))
+      .withColumnRenamed("id", "crimeTypeId")
+      .select("crimeId", "timeId", "locationId", "crimeTypeId", "sourceId", "outcomeId")
+      .as[Crime]
       .write
       .insertInto(tableName)
 
