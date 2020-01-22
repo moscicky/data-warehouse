@@ -1,6 +1,6 @@
 ### Data warehouse
 
-![schema](readme-assets/schema.png)
+![schema](readme-assets/updated_schema.png)
 
 ### Tworzenie jara
 1. Stwórz obiekt ETLa z metodą main w pakiecie `executables`. Wykorzystaj klasę ETL. 
