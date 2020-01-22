@@ -282,7 +282,9 @@ class ETL(val path: String, val small: Boolean = true) {
       .withColumnRenamed("id", "outcomeId")
       .join(crime_type_DS, ($"Crime type" === $"crimeType"))
       .withColumnRenamed("id", "crimeTypeId")
-      .select("crimeId", "timeId", "locationId", "crimeTypeId", "sourceId", "outcomeId")
+      .groupBy("timeId", "locationId", "crimeTypeId", "sourceId", "outcomeId")
+      .count()
+      .select("count", "timeId", "locationId", "crimeTypeId", "sourceId", "outcomeId")
       .as[Crime]
       .write
       .insertInto(tableName)

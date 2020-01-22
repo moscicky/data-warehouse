@@ -78,7 +78,7 @@ class SchemaCreator(spark: SparkSession) {
   def createCrimeTable(tableName: String): DataFrame = {
     spark.sql(
       s"""CREATE TABLE IF NOT EXISTS $tableName(
-         |crimeId STRING,
+         |count LONG,
          |timeId LONG,
          |locationId LONG,
          |crimeTypeId LONG,
