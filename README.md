@@ -102,5 +102,5 @@ spark-submit --class warehouse.executables.AirQualityTableEtl \
 --master yarn --num-executors 5 --driver-memory 512m \
 --executor-memory 512m --executor-cores 1 etl.jar input false
 ```
-
-1. Zaimportuj plik `Zeppelin_Analysis.json` do Zeppelina i uruchom.
+### Zeppelin
+Zaimportuj plik `Zeppelin_Analysis.json` do Zeppelina i uruchom.
