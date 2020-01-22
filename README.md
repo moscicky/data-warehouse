@@ -19,6 +19,7 @@ i kliknij `Build`.
 
 ### Odpalanie na klastrze
 1. wgraj pliki wejściowe na swój bucket do folderu `warehouse-input` na google storage:
+
         AirQuality.csv
         CityofLondonPoliceOutcomes.txt
         CityofLondonPoliceRecords.csv
