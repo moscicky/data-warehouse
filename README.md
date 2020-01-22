@@ -38,7 +38,7 @@ i kliknij `Build`.
         spark-shell 
         :paste
         
-1. wklej zawartość pliku SparkShellLoad.scala
+1. wklej zawartość pliku `SparkShellLoad.scala`
         
 1. klinij enter i `crtl + d`, obiekty powinny się utworzyć
 1. stwórz schemat tabel 
@@ -46,13 +46,16 @@ i kliknij `Build`.
         val schema = new SchemaCreator(spark)
         schema.createAll()
 1. wyjdź ze spark shella `crl + d`
-1. odpal etla wskazując ścieżkę do maina
+1. odpal etla wskazując ścieżkę do maina. PRZYKŁAD:
         
         spark-submit --class warehouse.executables.TimeTableEtl \
         --master yarn --num-executors 5 --driver-memory 512m \
         --executor-memory 512m --executor-cores 1 etl.jar input true
 
-Ostatnie dwa argumenty oznaczają 1) folder z plikami wejściowymi 2) czu używać małych wersji plików 
+zmieniająć parametr `--class` na jedną z klas w `executables` uruchamiamy wybranego ETLA 
+Ostatnie dwa argumenty oznaczają 
+1) folder z plikami wejściowymi 
+2) czy używać małych wersji plików 
 
 ### Odpalanie wszystkiego 
 ```
