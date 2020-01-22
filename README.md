@@ -37,7 +37,9 @@ i kliknij `Build`.
     
         spark-shell 
         :paste
-1. wklej zawartość plików `Table.scala` oraz `SchemaCreator.scala` bez pierwszej linijki
+        
+1. wklej zawartość pliku SparkShellLoad.scala
+        
 1. klinij enter i `crtl + d`, obiekty powinny się utworzyć
 1. stwórz schemat tabel 
 
@@ -51,3 +53,38 @@ i kliknij `Build`.
         --executor-memory 512m --executor-cores 1 etl.jar input true
 
 Ostatnie dwa argumenty oznaczają 1) folder z plikami wejściowymi 2) czu używać małych wersji plików 
+
+### Odpalanie wszystkiego 
+```
+spark-submit --class warehouse.executables.TimeTableEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.SourceTableEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.AirPollutionTypeEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.CrimeTypeEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.LocationEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.OutcomeTypeEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.CrimeTableEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+
+spark-submit --class warehouse.executables.AirQualityTableEtl \
+--master yarn --num-executors 5 --driver-memory 512m \
+--executor-memory 512m --executor-cores 1 etl.jar input false
+```
