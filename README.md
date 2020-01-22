@@ -18,7 +18,17 @@ i kliknij `Build`.
 1. Jar zostanie umieszczony w folderze `out/artifcats`
 
 ### Odpalanie na klastrze
-1. wgraj pliki wejściowe (normalne i wersje 1000 oraz Norm i Source) na swój bucket do folderu `warehouse-input` na google storage
+1. wgraj pliki wejściowe na swój bucket do folderu `warehouse-input` na google storage:
+        AirQuality.csv
+        CityofLondonPoliceOutcomes.txt
+        CityofLondonPoliceRecords.csv
+        MetropolitanPoliceServiceOutcomes.txt
+        MetropolitanPoliceServiceRecords.csv
+        Norm.csv
+        Source.csv
+        
+Pliki `Norm.csv` oraz `Source.csv` znajduja się w katalogu `src/main/scala/warehouse/data`
+    
 1. z shella VMki na klastrze przekopiuj pliki z bucketa na klaster 
         
         gsutil cp -r gs://<bucket-name>/warehouse-input .
