@@ -50,6 +50,7 @@ class SchemaCreator(spark: SparkSession) {
   }
 
   def createAll(): Unit = {
+    dropSchema(Table.allNames())
     Table.all().foreach {
       case t@TIME_TABLE => createTimeTable(t.name)
       case t@LOCATION_TABLE => createLocationTable(t.name)
